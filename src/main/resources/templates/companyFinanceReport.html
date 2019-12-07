@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<table  border="1">
+    <caption>Фінансовий звіт</caption>
+    <tr>
+        <th>Назва</th>
+        <th>Сьогодні</th>
+        <th>Вчора</th>
+        <th>За місяць</th>
+        <th>За рік</th>
+    </tr>
+    <tr th:each="f : ${finance}">
+        <th th:text="${f.getItem_name()}"></th>
+        <td th:text="${f.getValue()}"></td>
+        <td th:text="${f.getPrev_turn_value()}"></td>
+        <td th:text="${f.getMonth_value()}"></td>
+        <td th:text="${f.getYear_value()}"></td>
+    </tr>
+</table>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/admin.js"></script>
+</body>
+</html>

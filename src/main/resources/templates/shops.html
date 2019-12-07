@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Shops</title>
+</head>
+<body>
+
+<ul th:each="product : ${units}">
+
+    <p th:text="${product}"></p>
+    <img th:attr="src=@{|/img/products/${product.value}.gif|},title=${product.value},alt=${product.value}" />
+</ul>
+</body>
+</html>

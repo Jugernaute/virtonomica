@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>unitsReport</title>
+    <link href="/css/style.css" rel="stylesheet" >
+</head>
+<body>
+
+<table class="table" border="1">
+    <caption>Фінансовий звіт по юнітах</caption>
+    <tr>
+        <th>id</th>
+        <th>unit_type_id</th>
+        <th>name</th>
+        <th>country_name</th>
+        <th>region_name</th>
+        <th>city_name</th>
+        <th>cash_flow</th>
+    </tr>
+    <tr a th:each="f : ${finances}">
+        <!--th:href="|/list?l=${lid}|"-->
+        <th th:text="${f.getId()}" a="" style="text-decoration: red"></th>
+        <th th:text="${f.getUnit_type_id()}"></th>
+        <th th:text="${f.getName()}"></th>
+        <th th:text="${f.getCountry_name()}"></th>
+        <th th:text="${f.getRegion_name()}"></th>
+        <th th:text="${f.getCity_name()}"></th>
+        <th th:text="${f.getCashflow()}"></th>
+    </tr>
+
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/shop.js"></script>
+</body>
+</html>

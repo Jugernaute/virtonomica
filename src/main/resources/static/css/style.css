@@ -1,0 +1,4 @@
+.table tr:hover{
+    background-color: aliceblue;
+    color: blue;
+}
