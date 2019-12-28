@@ -2,7 +2,7 @@ package ua.com.virtonomica.service.industrial.unit_type;
 
 import ua.com.virtonomica.entity.industrial.UnitType;
 import ua.com.virtonomica.service.BaseService;
-import ua.com.virtonomica.web.factory_analytics.UnitClassEnum;
+import ua.com.virtonomica.web.api.analysis.industry_analysis.factory_info.UnitClassEnum;
 
 import java.util.List;
 

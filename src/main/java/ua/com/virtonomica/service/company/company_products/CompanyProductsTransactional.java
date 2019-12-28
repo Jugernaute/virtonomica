@@ -2,10 +2,11 @@ package ua.com.virtonomica.service.company.company_products;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import ua.com.virtonomica.dto.shop_products.ShopsProducts;
 import ua.com.virtonomica.entity.company.CompanyProducts;
-import ua.com.virtonomica.entity.product.RetailProduct;
 import ua.com.virtonomica.repository.company.CompanyProductsRepository;
 
+import java.util.HashSet;
 import java.util.List;
 
 @Service
@@ -18,7 +19,7 @@ public class CompanyProductsTransactional implements CompanyProductsService {
     }
 
     @Override
-    public List<CompanyProducts> findProductsRealizedByUnitClass(long unitClassId) {
+    public HashSet<ShopsProducts> findProductsRealizedByUnitClass(long unitClassId) {
         return companyProductsRepository.findProductsRealizedByUnitClass(unitClassId);
     }
 

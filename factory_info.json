@@ -1,0 +1,6964 @@
+[ {
+  "unitName" : "Электромеханический завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Электропривод",
+    "qlt_modif" : "0",
+    "productId" : "370072",
+    "materials" : [ {
+      "material" : "Медь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика детской мебели",
+  "unitSpecializations" : [ {
+    "specialization" : "Детская кроватка",
+    "qlt_modif" : "0",
+    "productId" : "423623",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шерсть",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод климатической техники",
+  "unitSpecializations" : [ {
+    "specialization" : "Кондиционер",
+    "qlt_modif" : "0",
+    "productId" : "370074",
+    "materials" : [ {
+      "material" : "Электропривод",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Улучшенный кондиционер",
+    "qlt_modif" : "0.15",
+    "productId" : "370074",
+    "materials" : [ {
+      "material" : "Медь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Цинк",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Автомобильный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Автомобиль",
+    "qlt_modif" : "0",
+    "productId" : "1509",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Автомобиль с GPS-навигацией",
+    "qlt_modif" : "0.05",
+    "productId" : "1509",
+    "materials" : [ {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Ювелирный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Золотые украшения",
+    "qlt_modif" : "0",
+    "productId" : "1526",
+    "materials" : [ {
+      "material" : "Золото",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Часовой завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Хромированные часы",
+    "qlt_modif" : "0.15",
+    "productId" : "1524",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "2/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Наручные часы",
+    "qlt_modif" : "0",
+    "productId" : "1524",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Золотые часы",
+    "qlt_modif" : "2.0",
+    "productId" : "1524",
+    "materials" : [ {
+      "material" : "Золото",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Электронные часы",
+    "qlt_modif" : "0",
+    "productId" : "1524",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству холодильников",
+  "unitSpecializations" : [ {
+    "specialization" : "Холодильники",
+    "qlt_modif" : "0",
+    "productId" : "1510",
+    "materials" : [ {
+      "material" : "Комплектующие",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод электронных компонентов",
+  "unitSpecializations" : [ {
+    "specialization" : "Электронные компоненты с позолоченными проводниками",
+    "qlt_modif" : "0.25",
+    "productId" : "1485",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Золото",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Электронные компоненты",
+    "qlt_modif" : "0",
+    "productId" : "1485",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Усовершенствованные электронные компоненты",
+    "qlt_modif" : "0",
+    "productId" : "1485",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Золото",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Хлебозавод",
+  "unitSpecializations" : [ {
+    "specialization" : "Сдобные булки",
+    "qlt_modif" : "0.15",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Мука",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Масло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Апельсиновый бисквит",
+    "qlt_modif" : "0.1",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Апельсин",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Хлеб",
+    "qlt_modif" : "0",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кондитерские изделия",
+    "qlt_modif" : "0",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Макаронные изделия",
+    "qlt_modif" : "0",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Вафли",
+    "qlt_modif" : "0.1",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Какао",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сдобный каравай",
+    "qlt_modif" : "0.5",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Масло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фруктовый бисквит",
+    "qlt_modif" : "0.25",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Медовый пряник",
+    "qlt_modif" : "0.5",
+    "productId" : "1497",
+    "materials" : [ {
+      "material" : "Мука",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Масло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Судостроительная верфь",
+  "unitSpecializations" : [ {
+    "specialization" : "Рыболовецкий траулер",
+    "qlt_modif" : "0",
+    "productId" : "335182",
+    "materials" : [ {
+      "material" : "Рыболовная сеть",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "70",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "200",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1 000",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "500",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "200",
+      "quality" : "1"
+    }, {
+      "material" : "Холодильники",
+      "count" : "70",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Пивоваренный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Пиво в бутылках",
+    "qlt_modif" : "0",
+    "productId" : "1502",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "4/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пиво в банках",
+    "qlt_modif" : "0.07",
+    "productId" : "1502",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "4/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рисовое пиво",
+    "qlt_modif" : "0.05",
+    "productId" : "1502",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Рис",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Медовуха",
+    "qlt_modif" : "0.05",
+    "productId" : "1502",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Студия обработки жемчуга",
+  "unitSpecializations" : [ {
+    "specialization" : "Жемчужные украшения",
+    "qlt_modif" : "0",
+    "productId" : "380008",
+    "materials" : [ {
+      "material" : "Жемчуг",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Золото",
+      "count" : "1/2",
+      "quality" : "4"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод детских колясок",
+  "unitSpecializations" : [ {
+    "specialization" : "Детская коляска",
+    "qlt_modif" : "0",
+    "productId" : "423622",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Автомобильное сиденье",
+    "qlt_modif" : "0",
+    "productId" : "423622",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "4/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод фототехники",
+  "unitSpecializations" : [ {
+    "specialization" : "Зеркальные фотоаппараты",
+    "qlt_modif" : "0.2",
+    "productId" : "1523",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Зеркальный лист",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фототехника",
+    "qlt_modif" : "0",
+    "productId" : "1523",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству стиральных машин",
+  "unitSpecializations" : [ {
+    "specialization" : "Стиральные машины с кипячением",
+    "qlt_modif" : "0.25",
+    "productId" : "3867",
+    "materials" : [ {
+      "material" : "Комплектующие",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Стиральные машины",
+    "qlt_modif" : "0",
+    "productId" : "3867",
+    "materials" : [ {
+      "material" : "Комплектующие",
+      "count" : "6/10",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Керамический завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Керамическая посуда",
+    "qlt_modif" : "0",
+    "productId" : "1521",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сантехника",
+    "qlt_modif" : "0",
+    "productId" : "1521",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "7",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Душевые кабинки",
+    "qlt_modif" : "0",
+    "productId" : "1521",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Заварочный чайник",
+    "qlt_modif" : "0",
+    "productId" : "1521",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "3",
+      "quality" : "4"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод видеоаппаратуры",
+  "unitSpecializations" : [ {
+    "specialization" : "Телевизоры",
+    "qlt_modif" : "0",
+    "productId" : "3868",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Видеокамера",
+    "qlt_modif" : "0",
+    "productId" : "3868",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод садового инвентаря",
+  "unitSpecializations" : [ {
+    "specialization" : "Гриль для дачи",
+    "qlt_modif" : "0",
+    "productId" : "423744",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Садовый инвентарь",
+    "qlt_modif" : "0",
+    "productId" : "423744",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод портативной электроники",
+  "unitSpecializations" : [ {
+    "specialization" : "Радионяня",
+    "qlt_modif" : "0",
+    "productId" : "423626",
+    "materials" : [ {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Станкостроительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Пилорама",
+    "qlt_modif" : "0",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Горно-шахтное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "9",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Улучшенное горно-шахтное оборудование",
+    "qlt_modif" : "0.1",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Горно-шахтное оборудование с алмазными долотами",
+    "qlt_modif" : "0.3",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "9",
+      "quality" : "1"
+    }, {
+      "material" : "Алмазы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фундаментная рама",
+    "qlt_modif" : "0.1",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Станки",
+    "qlt_modif" : "0",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Станки с ЧПУ",
+    "qlt_modif" : "0.3",
+    "productId" : "10717",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод детского питания",
+  "unitSpecializations" : [ {
+    "specialization" : "Детское питание",
+    "qlt_modif" : "0",
+    "productId" : "423624",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/2",
+      "quality" : "2.5"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Тракторный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Тракторы",
+    "qlt_modif" : "0",
+    "productId" : "1530",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод готовых завтраков",
+  "unitSpecializations" : [ {
+    "specialization" : "Кукурузные хлопья",
+    "qlt_modif" : "0",
+    "productId" : "422546",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Медовые хлопья",
+    "qlt_modif" : "0.25",
+    "productId" : "422546",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Яхтостроительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Корпус яхты",
+    "qlt_modif" : "0",
+    "productId" : "130",
+    "materials" : [ {
+      "material" : "Краска",
+      "count" : "40",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "300",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "25",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Оснащение яхты",
+    "qlt_modif" : "0",
+    "productId" : "130",
+    "materials" : [ {
+      "material" : "Синтетическая ткань",
+      "count" : "300",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "25",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "25",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Яхта",
+    "qlt_modif" : "0",
+    "productId" : "130",
+    "materials" : [ {
+      "material" : "Корпус яхты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Оснащение яхты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Интерьер яхты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству мотоциклов",
+  "unitSpecializations" : [ {
+    "specialization" : "Спортивный мотоцикл",
+    "qlt_modif" : "0.2",
+    "productId" : "1518",
+    "materials" : [ {
+      "material" : "Углепластик",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мотоцикл",
+    "qlt_modif" : "0",
+    "productId" : "1518",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика элитных интерьеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Интерьер яхты",
+    "qlt_modif" : "0",
+    "productId" : "132",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Мебель",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Холодильники",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Телевизоры",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Сантехника",
+      "count" : "5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Интерьер яхты 2-го поколения",
+    "qlt_modif" : "0.1",
+    "productId" : "132",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Мебель",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Холодильники",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "LED-телевизоры",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сантехника",
+      "count" : "5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика по производству мобильных телефонов",
+  "unitSpecializations" : [ {
+    "specialization" : "Мобильные телефоны",
+    "qlt_modif" : "0",
+    "productId" : "1517",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Приборостроительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Хромированные приборы",
+    "qlt_modif" : "0.12",
+    "productId" : "1528",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "7",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "4/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Измерительные приборы",
+    "qlt_modif" : "0",
+    "productId" : "1528",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству компьютеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Компьютеры",
+    "qlt_modif" : "0",
+    "productId" : "1515",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод аудиоаппаратуры",
+  "unitSpecializations" : [ {
+    "specialization" : "Аудиотехника",
+    "qlt_modif" : "0",
+    "productId" : "1512",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству велосипедов",
+  "unitSpecializations" : [ {
+    "specialization" : "Спортивный велосипед",
+    "qlt_modif" : "0.2",
+    "productId" : "1513",
+    "materials" : [ {
+      "material" : "Углепластик",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Велосипеды",
+    "qlt_modif" : "0",
+    "productId" : "1513",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Ликероводочный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Крем-ликер",
+    "qlt_modif" : "0",
+    "productId" : "1505",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Ликер",
+    "qlt_modif" : "0",
+    "productId" : "1505",
+    "materials" : [ {
+      "material" : "Какао",
+      "count" : "1",
+      "quality" : "2"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Вино",
+    "qlt_modif" : "0.15",
+    "productId" : "1505",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Фрукты",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Водка",
+    "qlt_modif" : "0.5",
+    "productId" : "1505",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рисовое вино",
+    "qlt_modif" : "0",
+    "productId" : "1505",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Рис",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству кофе-машин",
+  "unitSpecializations" : [ {
+    "specialization" : "Кофе-машины",
+    "qlt_modif" : "0",
+    "productId" : "380004",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Гранильная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Бриллиантовые украшения",
+    "qlt_modif" : "0",
+    "productId" : "2546",
+    "materials" : [ {
+      "material" : "Алмазы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Золото",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Нефтемаслозавод",
+  "unitSpecializations" : [ {
+    "specialization" : "Моторное масло",
+    "qlt_modif" : "0",
+    "productId" : "370078",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Литол",
+    "qlt_modif" : "0.2",
+    "productId" : "370078",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Литий",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Шоколадная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Шоколад",
+    "qlt_modif" : "0",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Какао",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шоколад с изюмом",
+    "qlt_modif" : "0.1",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Какао",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шоколадные конфеты",
+    "qlt_modif" : "0",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Какао",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Карамельные конфеты",
+    "qlt_modif" : "0.1",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Фрукты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шоколад с орехами",
+    "qlt_modif" : "0.1",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Арахис",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Какао",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Медовые конфеты",
+    "qlt_modif" : "0.5",
+    "productId" : "1507",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству смартфонов",
+  "unitSpecializations" : [ {
+    "specialization" : "Смартфон",
+    "qlt_modif" : "0",
+    "productId" : "422212",
+    "materials" : [ {
+      "material" : "LED",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4/10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Ателье пошива одежды",
+  "unitSpecializations" : [ {
+    "specialization" : "Деловая одежда",
+    "qlt_modif" : "0",
+    "productId" : "422204",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковая ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Аккумуляторный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Щелочной элемент питания",
+    "qlt_modif" : "0",
+    "productId" : "423742",
+    "materials" : [ {
+      "material" : "Цинк",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Литий-ионный аккумулятор",
+    "qlt_modif" : "0",
+    "productId" : "423742",
+    "materials" : [ {
+      "material" : "Литий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Трикотажная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Шерстяной трикотаж",
+    "qlt_modif" : "0",
+    "productId" : "401973",
+    "materials" : [ {
+      "material" : "Шерсть",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шелковый трикотаж",
+    "qlt_modif" : "0.2",
+    "productId" : "401973",
+    "materials" : [ {
+      "material" : "Шёлк",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод органического синтеза",
+  "unitSpecializations" : [ {
+    "specialization" : "Этанол",
+    "qlt_modif" : "0",
+    "productId" : "422548",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Мануфактура национальной одежды",
+  "unitSpecializations" : [ {
+    "specialization" : "Итальянское платье",
+    "qlt_modif" : "0",
+    "productId" : "424509",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Бижутерия",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Шерсть",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фольктдрект",
+    "qlt_modif" : "0",
+    "productId" : "424509",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шерсть",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сомбреро",
+    "qlt_modif" : "0",
+    "productId" : "424509",
+    "materials" : [ {
+      "material" : "Шерсть",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пончо",
+    "qlt_modif" : "0",
+    "productId" : "424509",
+    "materials" : [ {
+      "material" : "Шерсть",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Табачная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Снюс",
+    "qlt_modif" : "0",
+    "productId" : "424205",
+    "materials" : [ {
+      "material" : "Табак",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Природные минералы",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сигареты",
+    "qlt_modif" : "0",
+    "productId" : "424205",
+    "materials" : [ {
+      "material" : "Табак",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Мануфактура по производству сигар",
+  "unitSpecializations" : [ {
+    "specialization" : "Сигары",
+    "qlt_modif" : "0",
+    "productId" : "422198",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Табак",
+      "count" : "10",
+      "quality" : "8.5"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству телевизоров",
+  "unitSpecializations" : [ {
+    "specialization" : "LED-телевизоры",
+    "qlt_modif" : "0",
+    "productId" : "422432",
+    "materials" : [ {
+      "material" : "LED",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод предметов детской гигиены",
+  "unitSpecializations" : [ {
+    "specialization" : "Подгузники",
+    "qlt_modif" : "0",
+    "productId" : "423627",
+    "materials" : [ {
+      "material" : "Химикаты",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковое волокно",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика корма для животных",
+  "unitSpecializations" : [ {
+    "specialization" : "Сухой корм для животных",
+    "qlt_modif" : "0",
+    "productId" : "422200",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Природные минералы",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Консервированный корм для животных",
+    "qlt_modif" : "0",
+    "productId" : "422200",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Спортивное питание",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Зерно",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по переработке рыбы",
+  "unitSpecializations" : [ {
+    "specialization" : "Рыбные консервы",
+    "qlt_modif" : "0",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Промысловая рыба",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Лососевые деликатесы",
+    "qlt_modif" : "0.2",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Лосось",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Красная икра",
+    "qlt_modif" : "0",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Лосось",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Осетровые деликатесы",
+    "qlt_modif" : "0.5",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Осетр",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Крабовые деликатесы",
+    "qlt_modif" : "0",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Крабы",
+      "count" : "8",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Черная икра",
+    "qlt_modif" : "0",
+    "productId" : "335175",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Осетр",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика производства светодиодов",
+  "unitSpecializations" : [ {
+    "specialization" : "LED",
+    "qlt_modif" : "0",
+    "productId" : "422202",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Кремний",
+      "count" : "1/5",
+      "quality" : "3"
+    }, {
+      "material" : "Природные минералы",
+      "count" : "1/5",
+      "quality" : "3"
+    } ]
+  } ]
+}, {
+  "unitName" : "Вискокурня",
+  "unitSpecializations" : [ {
+    "specialization" : "Бурбон",
+    "qlt_modif" : "0",
+    "productId" : "422547",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "80",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика по производству конструкторов",
+  "unitSpecializations" : [ {
+    "specialization" : "Конструктор",
+    "qlt_modif" : "0",
+    "productId" : "423890",
+    "materials" : [ {
+      "material" : "Термопластик",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Плодоовощной завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Фруктовый джем",
+    "qlt_modif" : "0",
+    "productId" : "422434",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Апельсиновый джем",
+    "qlt_modif" : "0.2",
+    "productId" : "422434",
+    "materials" : [ {
+      "material" : "Апельсин",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Консервированная кукуруза",
+    "qlt_modif" : "0",
+    "productId" : "422434",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Джем с мёдом",
+    "qlt_modif" : "0.1",
+    "productId" : "422434",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству ПБП",
+  "unitSpecializations" : [ {
+    "specialization" : "Обед быстрого приготовления",
+    "qlt_modif" : "0.05",
+    "productId" : "15749",
+    "materials" : [ {
+      "material" : "Рис",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мясо",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Соусы",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "2/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Вермишель быстрого приготовления",
+    "qlt_modif" : "0.1",
+    "productId" : "15749",
+    "materials" : [ {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Соусы",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Масло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мисо-суп",
+    "qlt_modif" : "0",
+    "productId" : "15749",
+    "materials" : [ {
+      "material" : "Промысловая рыба",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Тофу",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Соя",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рис быстрого приготовления",
+    "qlt_modif" : "0.15",
+    "productId" : "15749",
+    "materials" : [ {
+      "material" : "Рис",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Студия декора",
+  "unitSpecializations" : [ {
+    "specialization" : "Арт декор",
+    "qlt_modif" : "0",
+    "productId" : "351577",
+    "materials" : [ {
+      "material" : "Золото",
+      "count" : "5",
+      "quality" : "4"
+    }, {
+      "material" : "Древесина",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Бронзовый декор",
+    "qlt_modif" : "0",
+    "productId" : "351577",
+    "materials" : [ {
+      "material" : "Медь",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кованая садовая мебель",
+    "qlt_modif" : "0",
+    "productId" : "351577",
+    "materials" : [ {
+      "material" : "Медь",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Цинк",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по обработке цветных металлов",
+  "unitSpecializations" : [ {
+    "specialization" : "Хромалевый термоэлемент",
+    "qlt_modif" : "0",
+    "productId" : "7090",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод электроинструментов",
+  "unitSpecializations" : [ {
+    "specialization" : "Электроинструмент",
+    "qlt_modif" : "0",
+    "productId" : "370075",
+    "materials" : [ {
+      "material" : "Электропривод",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод запчастей",
+  "unitSpecializations" : [ {
+    "specialization" : "Автозапчасти",
+    "qlt_modif" : "0",
+    "productId" : "370077",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод медицинских антисептиков",
+  "unitSpecializations" : [ {
+    "specialization" : "Цинковый антисептик",
+    "qlt_modif" : "0.1",
+    "productId" : "422552",
+    "materials" : [ {
+      "material" : "Цинк",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетические лекарственные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Медицинский антисептик",
+    "qlt_modif" : "0",
+    "productId" : "422552",
+    "materials" : [ {
+      "material" : "Этанол",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Электроламповый завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Светодиодная лампа",
+    "qlt_modif" : "0",
+    "productId" : "422435",
+    "materials" : [ {
+      "material" : "LED",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика развивающих игрушек",
+  "unitSpecializations" : [ {
+    "specialization" : "Развивающие игрушки",
+    "qlt_modif" : "0",
+    "productId" : "423629",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод компьютерной техники",
+  "unitSpecializations" : [ {
+    "specialization" : "Серверная платформа",
+    "qlt_modif" : "0",
+    "productId" : "423781",
+    "materials" : [ {
+      "material" : "Микропроцессор",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Компьютерные аксессуары",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Планшет",
+    "qlt_modif" : "0",
+    "productId" : "423781",
+    "materials" : [ {
+      "material" : "Микропроцессор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Светочувствительная матрица",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Ноутбук",
+    "qlt_modif" : "0",
+    "productId" : "423781",
+    "materials" : [ {
+      "material" : "Микропроцессор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Принтер",
+    "qlt_modif" : "0",
+    "productId" : "423781",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод медицинской электроники",
+  "unitSpecializations" : [ {
+    "specialization" : "Электронный тонометр",
+    "qlt_modif" : "0",
+    "productId" : "422433",
+    "materials" : [ {
+      "material" : "LED",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод детской одежды",
+  "unitSpecializations" : [ {
+    "specialization" : "Одежда для малышей",
+    "qlt_modif" : "0",
+    "productId" : "423628",
+    "materials" : [ {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод автомобильной химии",
+  "unitSpecializations" : [ {
+    "specialization" : "Антифриз",
+    "qlt_modif" : "0",
+    "productId" : "422549",
+    "materials" : [ {
+      "material" : "Этанол",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Омыватель стекол",
+    "qlt_modif" : "0",
+    "productId" : "422549",
+    "materials" : [ {
+      "material" : "Этанол",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Подразделение по сборке IT-оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "IT-оборудование",
+    "qlt_modif" : "0",
+    "productId" : "423275",
+    "materials" : [ {
+      "material" : "Серверная платформа",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Ноутбук",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Принтер",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод бытовой техники",
+  "unitSpecializations" : [ {
+    "specialization" : "Фен",
+    "qlt_modif" : "0",
+    "productId" : "7092",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Утюг",
+    "qlt_modif" : "0",
+    "productId" : "7092",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Обогатительная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Выплавка цинка",
+    "qlt_modif" : "0",
+    "productId" : "423741",
+    "materials" : [ {
+      "material" : "Полиметаллическая руда",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Выплавка лития",
+    "qlt_modif" : "0",
+    "productId" : "423741",
+    "materials" : [ {
+      "material" : "Полиметаллическая руда",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Кондитерская фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Апельсиновое суфле",
+    "qlt_modif" : "0",
+    "productId" : "423925",
+    "materials" : [ {
+      "material" : "Апельсин",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Зефир",
+    "qlt_modif" : "0",
+    "productId" : "423925",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод автомобильных принадлежностей",
+  "unitSpecializations" : [ {
+    "specialization" : "Автомобильные диски",
+    "qlt_modif" : "0",
+    "productId" : "422716",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Автомобильный багажник",
+    "qlt_modif" : "0",
+    "productId" : "422716",
+    "materials" : [ {
+      "material" : "Углепластик",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кузовные запчасти",
+    "qlt_modif" : "0",
+    "productId" : "422716",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по выплавке титана",
+  "unitSpecializations" : [ {
+    "specialization" : "Титан",
+    "qlt_modif" : "0",
+    "productId" : "380051",
+    "materials" : [ {
+      "material" : "Титановая руда",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод экологического оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Гелиостат",
+    "qlt_modif" : "0",
+    "productId" : "423727",
+    "materials" : [ {
+      "material" : "Зеркальный лист",
+      "count" : "1 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мусороприёмное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "423727",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "20",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Система очистки дымовых газов",
+    "qlt_modif" : "0",
+    "productId" : "423727",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковая ткань",
+      "count" : "50",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству вощины",
+  "unitSpecializations" : [ {
+    "specialization" : "Вощина",
+    "qlt_modif" : "0",
+    "productId" : "423139",
+    "materials" : [ {
+      "material" : "Воск",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству зонтов",
+  "unitSpecializations" : [ {
+    "specialization" : "Зонт",
+    "qlt_modif" : "0",
+    "productId" : "16010",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Комбикормовый завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Комбикорм",
+    "qlt_modif" : "0",
+    "productId" : "15746",
+    "materials" : [ {
+      "material" : "Зерно",
+      "count" : "7/10",
+      "quality" : "1"
+    }, {
+      "material" : "Кормовые культуры",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Автосборочный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Седан",
+    "qlt_modif" : "0",
+    "productId" : "370079",
+    "materials" : [ {
+      "material" : "Электропривод",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Автозапчасти",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Внедорожник",
+    "qlt_modif" : "0",
+    "productId" : "370079",
+    "materials" : [ {
+      "material" : "Электропривод",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "7",
+      "quality" : "1"
+    }, {
+      "material" : "Автозапчасти",
+      "count" : "15",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "8",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Спорт-кар",
+    "qlt_modif" : "0",
+    "productId" : "370079",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Кожа",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "15",
+      "quality" : "1"
+    }, {
+      "material" : "Автозапчасти",
+      "count" : "20",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Коммерческий автомобиль",
+    "qlt_modif" : "0",
+    "productId" : "370079",
+    "materials" : [ {
+      "material" : "Электропривод",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Кузовные запчасти",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Автозапчасти",
+      "count" : "20",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "25",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Автомобильные багажники",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Микропроцессорный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Светочувствительная матрица",
+    "qlt_modif" : "0",
+    "productId" : "423780",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1",
+      "quality" : "3"
+    } ]
+  }, {
+    "specialization" : "Микропроцессор",
+    "qlt_modif" : "0",
+    "productId" : "423780",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод автосигнализаций",
+  "unitSpecializations" : [ {
+    "specialization" : "Автосигнализация",
+    "qlt_modif" : "0",
+    "productId" : "423161",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Автосигнализация c GPS",
+    "qlt_modif" : "0.05",
+    "productId" : "423161",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод гироскутеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Гироскутер",
+    "qlt_modif" : "0",
+    "productId" : "424138",
+    "materials" : [ {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Термопластик",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Микропроцессор",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика по производству витаминов",
+  "unitSpecializations" : [ {
+    "specialization" : "Витамины",
+    "qlt_modif" : "0",
+    "productId" : "423950",
+    "materials" : [ {
+      "material" : "Апельсин",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Природные минералы",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Маслозавод",
+  "unitSpecializations" : [ {
+    "specialization" : "Сливочное масло",
+    "qlt_modif" : "0",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Арахисовое масло",
+    "qlt_modif" : "0.2",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Арахис",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Майонез",
+    "qlt_modif" : "0",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Масло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Арахисовый соус",
+    "qlt_modif" : "0.1",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Арахис",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод металлической посуды",
+  "unitSpecializations" : [ {
+    "specialization" : "Сковородки",
+    "qlt_modif" : "0",
+    "productId" : "423162",
+    "materials" : [ {
+      "material" : "Титан",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика парфюмерных эссенций",
+  "unitSpecializations" : [ {
+    "specialization" : "Цветочная эссенция",
+    "qlt_modif" : "0",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "20",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Минеральная эссенция",
+    "qlt_modif" : "0.5",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Природные минералы",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Смешанная эссенция",
+    "qlt_modif" : "0.05",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Природные минералы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "15",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Эфирное масло",
+    "qlt_modif" : "0",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Масло из ростков пшеницы",
+    "qlt_modif" : "0.2",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Зерно",
+      "count" : "30",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Масло какао",
+    "qlt_modif" : "0",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Какао",
+      "count" : "10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Хлопковые косметические компоненты",
+    "qlt_modif" : "0.25",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Хлопок",
+      "count" : "15",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рисовое масло",
+    "qlt_modif" : "0.1",
+    "productId" : "16004",
+    "materials" : [ {
+      "material" : "Рис",
+      "count" : "20",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика игровых консолей",
+  "unitSpecializations" : [ {
+    "specialization" : "Игровые консоли",
+    "qlt_modif" : "0",
+    "productId" : "423163",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству авионики",
+  "unitSpecializations" : [ {
+    "specialization" : "Авионика",
+    "qlt_modif" : "0",
+    "productId" : "380057",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "15 000",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "30 000",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "75 000",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "15 000",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод авиашасси",
+  "unitSpecializations" : [ {
+    "specialization" : "Авиашасси",
+    "qlt_modif" : "0",
+    "productId" : "380055",
+    "materials" : [ {
+      "material" : "Шины",
+      "count" : "9 000",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "9 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "12 000",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Чайная мануфактура",
+  "unitSpecializations" : [ {
+    "specialization" : "Черный чай",
+    "qlt_modif" : "0",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Чайный лист",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Гранулированный чай",
+    "qlt_modif" : "0.15",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Чайный лист",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пакетированный чай",
+    "qlt_modif" : "0",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Чайный лист",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Зеленый чай",
+    "qlt_modif" : "0",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Чайный лист",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пуэр",
+    "qlt_modif" : "0",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Чайный лист",
+      "count" : "8",
+      "quality" : "12"
+    }, {
+      "material" : "Бумага",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фруктовый чай",
+    "qlt_modif" : "0",
+    "productId" : "401968",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1",
+      "quality" : "5"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству специй",
+  "unitSpecializations" : [ {
+    "specialization" : "Специи",
+    "qlt_modif" : "0",
+    "productId" : "16006",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод кожаной обуви",
+  "unitSpecializations" : [ {
+    "specialization" : "Женские сапоги",
+    "qlt_modif" : "0.05",
+    "productId" : "423164",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Воск",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Бижутерия",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мужские сапоги",
+    "qlt_modif" : "0",
+    "productId" : "423164",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Парфюмерная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Парфюмерия",
+    "qlt_modif" : "0",
+    "productId" : "16007",
+    "materials" : [ {
+      "material" : "Парфюмерная эссенция",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Спиртные напитки",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Одеколон",
+    "qlt_modif" : "0.2",
+    "productId" : "16007",
+    "materials" : [ {
+      "material" : "Парфюмерная эссенция",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Спиртные напитки",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Дезодорант",
+    "qlt_modif" : "0.2",
+    "productId" : "16007",
+    "materials" : [ {
+      "material" : "Парфюмерная эссенция",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Соевая фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Соевое масло",
+    "qlt_modif" : "0",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Соя",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Соевый соус",
+    "qlt_modif" : "0",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Соя",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Соевое мясо",
+    "qlt_modif" : "0.2",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Соя",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Тофу",
+    "qlt_modif" : "0",
+    "productId" : "15747",
+    "materials" : [ {
+      "material" : "Соя",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод коммуникационного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Коммуникационное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "423745",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "5 000",
+      "quality" : "1"
+    }, {
+      "material" : "Цинк",
+      "count" : "1 200",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "200",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Авиасборочное предприятие",
+  "unitSpecializations" : [ {
+    "specialization" : "Узкофюзеляжный самолет",
+    "qlt_modif" : "0",
+    "productId" : "380059",
+    "materials" : [ {
+      "material" : "Секция фюзеляжа",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Элементы авиакрыла",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Элементы авиаоперения",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Авиашасси",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Авиадвигатель",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Интерьер самолета",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Авионика",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству прохладительных напитков",
+  "unitSpecializations" : [ {
+    "specialization" : "Апельсиновый сок",
+    "qlt_modif" : "0.5",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Апельсин",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Напитки в пластиковых бутылках",
+    "qlt_modif" : "0",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Энергетические напитки",
+    "qlt_modif" : "0",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Кофе",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Соки",
+    "qlt_modif" : "0",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Прохладительные напитки",
+    "qlt_modif" : "0",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Холодный чай",
+    "qlt_modif" : "0.1",
+    "productId" : "1504",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Чайный лист",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод биодизеля",
+  "unitSpecializations" : [ {
+    "specialization" : "Биодизель из сои",
+    "qlt_modif" : "0.1",
+    "productId" : "423863",
+    "materials" : [ {
+      "material" : "Соя",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Этанол",
+      "count" : "4/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Биодизель из кукурузы",
+    "qlt_modif" : "0",
+    "productId" : "423863",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "6",
+      "quality" : "1"
+    }, {
+      "material" : "Этанол",
+      "count" : "4/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод авиаконструкций",
+  "unitSpecializations" : [ {
+    "specialization" : "Секция фюзеляжа",
+    "qlt_modif" : "0",
+    "productId" : "380052",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "17 400",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "3 000",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "3 000",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "3 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1 500",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1 500",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "600",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Элементы авиакрыла",
+    "qlt_modif" : "0",
+    "productId" : "380052",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "27 000",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "2 000",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "9 000",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "2 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "4 500",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Элементы авиаоперения",
+    "qlt_modif" : "0",
+    "productId" : "380052",
+    "materials" : [ {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "7 000",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "6 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1 500",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод авиадвигателей",
+  "unitSpecializations" : [ {
+    "specialization" : "Авиадвигатель",
+    "qlt_modif" : "0",
+    "productId" : "380056",
+    "materials" : [ {
+      "material" : "Титан",
+      "count" : "15 000",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "30 000",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "15 000",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "15 000",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод авиаинтерьера",
+  "unitSpecializations" : [ {
+    "specialization" : "Интерьер самолета",
+    "qlt_modif" : "0",
+    "productId" : "380058",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "9 000",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "36 000",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "27 000",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству кухонных плит",
+  "unitSpecializations" : [ {
+    "specialization" : "Кухонные плиты",
+    "qlt_modif" : "0",
+    "productId" : "373200",
+    "materials" : [ {
+      "material" : "Термоэлемент",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод угольного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Угольное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "422134",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика офисной мебели",
+  "unitSpecializations" : [ {
+    "specialization" : "Офисная мебель",
+    "qlt_modif" : "0",
+    "productId" : "424208",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "30",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Офисное кресло",
+    "qlt_modif" : "0",
+    "productId" : "424208",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Термопластик",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кожаное офисное кресло",
+    "qlt_modif" : "0.5",
+    "productId" : "424208",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Термопластик",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству чайников",
+  "unitSpecializations" : [ {
+    "specialization" : "Чайник",
+    "qlt_modif" : "0",
+    "productId" : "423118",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод зубной пасты",
+  "unitSpecializations" : [ {
+    "specialization" : "Зубная паста",
+    "qlt_modif" : "0",
+    "productId" : "424450",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Природные минералы",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Колбасный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Деликатесные консервы",
+    "qlt_modif" : "0.1",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Соусы",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Купаты",
+    "qlt_modif" : "0.05",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Соусы",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Деликатесные колбасы",
+    "qlt_modif" : "0.2",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пикантные консервы",
+    "qlt_modif" : "0.1",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Колбасы",
+    "qlt_modif" : "0",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пельмени",
+    "qlt_modif" : "0.5",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Мука",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мясные консервы",
+    "qlt_modif" : "0",
+    "productId" : "3869",
+    "materials" : [ {
+      "material" : "Мясо",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод теплообменного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Улучшенное теплообменное оборудование",
+    "qlt_modif" : "0.15",
+    "productId" : "422133",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Цинк",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "30",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "30",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "30",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Теплообменное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "422133",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "30",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "30",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "30",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика общественных интерьеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Парикмахерское оборудование",
+    "qlt_modif" : "0",
+    "productId" : "373197",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Мебель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Зеркало",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Фен",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Ресторанное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "373197",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Холодильники",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мебель",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Посуда",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Кухонная мебель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Кухонные плиты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Посудомоечные машины",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Улучшенное ресторанное оборудование",
+    "qlt_modif" : "0.5",
+    "productId" : "373197",
+    "materials" : [ {
+      "material" : "Кухонная мебель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Кухонные плиты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Холодильники",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Посудомоечные машины",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мебель",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Кофе-машина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Керамическая посуда",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Сковородки",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Интерьер дошкольных учреждений",
+    "qlt_modif" : "0",
+    "productId" : "373197",
+    "materials" : [ {
+      "material" : "Мебель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Детская кроватка",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Столовое и постельное бельё",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Радионяня",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Развивающие игрушки",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Керамическая посуда",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по монтажу энергоблоков",
+  "unitSpecializations" : [ {
+    "specialization" : "Солнечный энергоблок",
+    "qlt_modif" : "0",
+    "productId" : "423728",
+    "materials" : [ {
+      "material" : "Паровая турбина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Гелиостат",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Теплообменное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Угольный энергоблок",
+    "qlt_modif" : "0",
+    "productId" : "423728",
+    "materials" : [ {
+      "material" : "Паровая турбина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Паровой котёл",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Теплообменное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Угольная мельница",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мазутный энергоблок",
+    "qlt_modif" : "0",
+    "productId" : "423728",
+    "materials" : [ {
+      "material" : "Паровая турбина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Паровой котёл",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Теплообменное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Топливное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мусоросжигательный энергоблок",
+    "qlt_modif" : "0",
+    "productId" : "423728",
+    "materials" : [ {
+      "material" : "Паровая турбина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Паровой котёл",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Теплообменное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мусороприёмное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Система очистки дымовых газов",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Улучшенный угольный энергоблок",
+    "qlt_modif" : "0.2",
+    "productId" : "423728",
+    "materials" : [ {
+      "material" : "Паровая турбина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Паровой котёл",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Теплообменное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Угольная мельница",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Система очистки дымовых газов",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика кухонной мебели",
+  "unitSpecializations" : [ {
+    "specialization" : "Кухонная мебель",
+    "qlt_modif" : "0",
+    "productId" : "373199",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод цифровой фото и видео техники",
+  "unitSpecializations" : [ {
+    "specialization" : "Цифровая видеокамера",
+    "qlt_modif" : "0",
+    "productId" : "423366",
+    "materials" : [ {
+      "material" : "Светочувствительная матрица",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Цифровой фотоаппарат",
+    "qlt_modif" : "0",
+    "productId" : "423366",
+    "materials" : [ {
+      "material" : "Светочувствительная матрица",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Жиротопный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Печень трески",
+    "qlt_modif" : "0",
+    "productId" : "423482",
+    "materials" : [ {
+      "material" : "Треска",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рыбий жир",
+    "qlt_modif" : "0",
+    "productId" : "423482",
+    "materials" : [ {
+      "material" : "Треска",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Картофель",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Медеплавильный комбинат",
+  "unitSpecializations" : [ {
+    "specialization" : "Медь",
+    "qlt_modif" : "0",
+    "productId" : "370071",
+    "materials" : [ {
+      "material" : "Медный колчедан",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по переработке оливок",
+  "unitSpecializations" : [ {
+    "specialization" : "Оливковое масло",
+    "qlt_modif" : "0",
+    "productId" : "422054",
+    "materials" : [ {
+      "material" : "Оливки",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Консервированные оливки",
+    "qlt_modif" : "0",
+    "productId" : "422054",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Оливки",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Консервированные оливки с лососем",
+    "qlt_modif" : "0.05",
+    "productId" : "422054",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Оливки",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Лосось",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод компьютерных аксессуаров",
+  "unitSpecializations" : [ {
+    "specialization" : "USB-флэш-накопитель",
+    "qlt_modif" : "0",
+    "productId" : "423378",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Компьютерные аксессуары",
+    "qlt_modif" : "0",
+    "productId" : "423378",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Нефтеперерабатывающий завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Нефтеперегонка",
+    "qlt_modif" : "0",
+    "productId" : "422703",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "2.5"
+    } ]
+  }, {
+    "specialization" : "Ректификация нефти",
+    "qlt_modif" : "0",
+    "productId" : "422703",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "4"
+    } ]
+  }, {
+    "specialization" : "Каталитический крекинг нефти",
+    "qlt_modif" : "0",
+    "productId" : "422703",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "8"
+    }, {
+      "material" : "Кремний",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод скутеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Скутер",
+    "qlt_modif" : "0",
+    "productId" : "424346",
+    "materials" : [ {
+      "material" : "Углепластик",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Двигатель",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод сверхлегких сплавов",
+  "unitSpecializations" : [ {
+    "specialization" : "Сверхлегкие алюминиевые сплавы",
+    "qlt_modif" : "0",
+    "productId" : "370073",
+    "materials" : [ {
+      "material" : "Медный колчедан",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бокситы",
+      "count" : "3",
+      "quality" : "1.5"
+    } ]
+  }, {
+    "specialization" : "Легированные сверхлегкие сплавы",
+    "qlt_modif" : "0.15",
+    "productId" : "370073",
+    "materials" : [ {
+      "material" : "Медный колчедан",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бокситы",
+      "count" : "3",
+      "quality" : "1.5"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Литиевые сверхлёгкие сплавы",
+    "qlt_modif" : "0.3",
+    "productId" : "370073",
+    "materials" : [ {
+      "material" : "Бокситы",
+      "count" : "3",
+      "quality" : "1.5"
+    }, {
+      "material" : "Медный колчедан",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству сыра",
+  "unitSpecializations" : [ {
+    "specialization" : "Сыр",
+    "qlt_modif" : "0",
+    "productId" : "373201",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сыр фета",
+    "qlt_modif" : "0",
+    "productId" : "373201",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Молокозавод",
+  "unitSpecializations" : [ {
+    "specialization" : "Белковый коктейль",
+    "qlt_modif" : "0",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Яйца",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мясо",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Ванильное мороженое",
+    "qlt_modif" : "0.1",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Глазированные сырки",
+    "qlt_modif" : "1.0",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Специи",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Какао",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Молочные продукты",
+    "qlt_modif" : "0",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Йогурты",
+    "qlt_modif" : "0.5",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Фрукты",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Молоко",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мороженое",
+    "qlt_modif" : "0",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Эскимо",
+    "qlt_modif" : "0.2",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Какао",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мороженое с орехами",
+    "qlt_modif" : "0.1",
+    "productId" : "15336",
+    "materials" : [ {
+      "material" : "Молоко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Арахис",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Сахар",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод глубокой заморозки продуктов",
+  "unitSpecializations" : [ {
+    "specialization" : "Фри",
+    "qlt_modif" : "0",
+    "productId" : "423387",
+    "materials" : [ {
+      "material" : "Картофель",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству посудомоечных машин",
+  "unitSpecializations" : [ {
+    "specialization" : "Посудомоечные машины",
+    "qlt_modif" : "0",
+    "productId" : "373202",
+    "materials" : [ {
+      "material" : "Термоэлемент",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод авторемонтного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Авторемонтное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "422709",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "70",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "8",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "50",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод медицинского оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Медицинское оборудование",
+    "qlt_modif" : "0",
+    "productId" : "359855",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "7",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Усовершенствованное медицинское оборудование",
+    "qlt_modif" : "0.2",
+    "productId" : "359855",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "7",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод топливного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Автозаправочное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "422708",
+    "materials" : [ {
+      "material" : "Топливное оборудование",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Топливораздаточная колонка",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Топливное оборудование",
+    "qlt_modif" : "0",
+    "productId" : "422708",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Термоэлемент",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Топливораздаточная колонка",
+    "qlt_modif" : "0",
+    "productId" : "422708",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "LED",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод спортивного инвентаря",
+  "unitSpecializations" : [ {
+    "specialization" : "Гири",
+    "qlt_modif" : "0",
+    "productId" : "15335",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мячи",
+    "qlt_modif" : "0",
+    "productId" : "15335",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Теннисные ракетки",
+    "qlt_modif" : "0",
+    "productId" : "15335",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Чулочно-носочная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Носки",
+    "qlt_modif" : "0",
+    "productId" : "422437",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод керамических материалов",
+  "unitSpecializations" : [ {
+    "specialization" : "Фарфоровая посуда",
+    "qlt_modif" : "0",
+    "productId" : "423277",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Кремний",
+      "count" : "3",
+      "quality" : "3"
+    }, {
+      "material" : "Краска",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фаянсовая посуда",
+    "qlt_modif" : "0",
+    "productId" : "423277",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "4",
+      "quality" : "4"
+    }, {
+      "material" : "Кремний",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Стеклокерамическая посуда",
+    "qlt_modif" : "0.1",
+    "productId" : "423277",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Кремний",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Литий",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Керамическая сковорода",
+    "qlt_modif" : "0",
+    "productId" : "423277",
+    "materials" : [ {
+      "material" : "Глина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "4/10",
+      "quality" : "1"
+    }, {
+      "material" : "Литий",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика нижнего белья",
+  "unitSpecializations" : [ {
+    "specialization" : "Нижнее бельё",
+    "qlt_modif" : "0",
+    "productId" : "312798",
+    "materials" : [ {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству электромобилей",
+  "unitSpecializations" : [ {
+    "specialization" : "Электромобиль",
+    "qlt_modif" : "0",
+    "productId" : "423276",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Сверхлёгкий алюминиевый сплав",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Микропроцессор",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Автозапчасти",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "Литий-ионный аккумулятор",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Шины",
+      "count" : "4",
+      "quality" : "1"
+    }, {
+      "material" : "GPS-навигаторы",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Электропривод",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод светотехники",
+  "unitSpecializations" : [ {
+    "specialization" : "Светильник",
+    "qlt_modif" : "0",
+    "productId" : "422436",
+    "materials" : [ {
+      "material" : "Светодиодная лампа",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Медь",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод медицинского инструментария",
+  "unitSpecializations" : [ {
+    "specialization" : "Медицинская посуда",
+    "qlt_modif" : "0",
+    "productId" : "359856",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Хирургический инструмент",
+    "qlt_modif" : "0",
+    "productId" : "359856",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Фонендоскоп",
+    "qlt_modif" : "0",
+    "productId" : "359856",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод спортивного оборудования",
+  "unitSpecializations" : [ {
+    "specialization" : "Беговая дорожка",
+    "qlt_modif" : "0",
+    "productId" : "15337",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Многофункциональный тренажер",
+    "qlt_modif" : "0.1",
+    "productId" : "15337",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Резина",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Кожа",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству косметики",
+  "unitSpecializations" : [ {
+    "specialization" : "Тени",
+    "qlt_modif" : "0",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Природные минералы",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Помада",
+    "qlt_modif" : "0.05",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Парфюмерная эссенция",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Краска для волос",
+    "qlt_modif" : "0",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Краска",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Лосьон",
+    "qlt_modif" : "0.2",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Парфюмерная эссенция",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Жемчужный крем",
+    "qlt_modif" : "0",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Косметическое масло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Жемчуг",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Воск",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Косметические маски",
+    "qlt_modif" : "0",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Косметическое масло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Воск",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Маточное молочко",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Антивозрастной крем",
+    "qlt_modif" : "0.5",
+    "productId" : "303308",
+    "materials" : [ {
+      "material" : "Косметическое масло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Оливковое масло",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Маточное молочко",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика по производству ковров",
+  "unitSpecializations" : [ {
+    "specialization" : "Ковер",
+    "qlt_modif" : "0",
+    "productId" : "422898",
+    "materials" : [ {
+      "material" : "Хлопковое волокно",
+      "count" : "20",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Шерсть",
+      "count" : "40",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству водных скутеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Водный скутер",
+    "qlt_modif" : "0",
+    "productId" : "15338",
+    "materials" : [ {
+      "material" : "Двигатель",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Углепластик",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика лекарственных компонентов",
+  "unitSpecializations" : [ {
+    "specialization" : "Синтетические лекарственные компоненты",
+    "qlt_modif" : "0",
+    "productId" : "359857",
+    "materials" : [ {
+      "material" : "Природные минералы",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Натуральные лекарственные компоненты",
+    "qlt_modif" : "0",
+    "productId" : "359857",
+    "materials" : [ {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пчелиные лекарственные компоненты",
+    "qlt_modif" : "0.1",
+    "productId" : "359857",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Мёд",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Маточное молочко",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Текстильная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Полотенце",
+    "qlt_modif" : "0",
+    "productId" : "422897",
+    "materials" : [ {
+      "material" : "Хлопковое волокно",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика биопрепаратов",
+  "unitSpecializations" : [ {
+    "specialization" : "Препараты животного происхождения",
+    "qlt_modif" : "0",
+    "productId" : "359859",
+    "materials" : [ {
+      "material" : "Коровы",
+      "count" : "2/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Биосинтетические препараты",
+    "qlt_modif" : "0.15",
+    "productId" : "359859",
+    "materials" : [ {
+      "material" : "Свиньи",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод по производству GPS-навигаторов",
+  "unitSpecializations" : [ {
+    "specialization" : "GPS-навигаторы",
+    "qlt_modif" : "0",
+    "productId" : "3838",
+    "materials" : [ {
+      "material" : "Электронные компоненты",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фармацевтический завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Таблетки",
+    "qlt_modif" : "0",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетические лекарственные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сиропы",
+    "qlt_modif" : "0",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Сахар",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Натуральные лекарственные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мази",
+    "qlt_modif" : "0.25",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Натуральные лекарственные компоненты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Лекарственные травы",
+    "qlt_modif" : "0",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Лекарственные чаи",
+    "qlt_modif" : "0.15",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Цветы и эфиромасличные культуры",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Чайный лист",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Никотиновый пластырь",
+    "qlt_modif" : "0",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Табак",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кукурузные рыльца",
+    "qlt_modif" : "0.1",
+    "productId" : "359860",
+    "materials" : [ {
+      "material" : "Кукуруза",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Химический завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Термоcтойкая пластмасса",
+    "qlt_modif" : "0.1",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Углепластик",
+    "qlt_modif" : "0",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пластмасса",
+    "qlt_modif" : "0",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Резина",
+    "qlt_modif" : "0",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Синтетические ткани",
+    "qlt_modif" : "0",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Химикаты",
+    "qlt_modif" : "0",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Природные минералы",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Искусственная кожа",
+    "qlt_modif" : "0.1",
+    "productId" : "1477",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Нефть",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика средств гигиены",
+  "unitSpecializations" : [ {
+    "specialization" : "Гигиенические прокладки",
+    "qlt_modif" : "0",
+    "productId" : "359863",
+    "materials" : [ {
+      "material" : "Синтетическая ткань",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Хлопковое волокно",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод бытовой химии",
+  "unitSpecializations" : [ {
+    "specialization" : "Освежитель воздуха",
+    "qlt_modif" : "0.1",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "3/100",
+      "quality" : "1"
+    }, {
+      "material" : "Парфюмерная эссенция",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Средство для мытья посуды",
+    "qlt_modif" : "0.1",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "5/100",
+      "quality" : "1"
+    }, {
+      "material" : "Косметическое масло",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Моющие средства",
+    "qlt_modif" : "0",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/100",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Краска",
+    "qlt_modif" : "0",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Аэрозоли",
+    "qlt_modif" : "0",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Алюминий",
+      "count" : "5/1000",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "3/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Чистящие средства",
+    "qlt_modif" : "0",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Этанол",
+      "count" : "8/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Полироли",
+    "qlt_modif" : "0.15",
+    "productId" : "1511",
+    "materials" : [ {
+      "material" : "Этанол",
+      "count" : "8/10",
+      "quality" : "1"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Воск",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Металлургический завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Легированная сталь (Г)",
+    "qlt_modif" : "0.1",
+    "productId" : "1480",
+    "materials" : [ {
+      "material" : "Железная руда",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Легированная сталь (ХГС)",
+    "qlt_modif" : "0.2",
+    "productId" : "1480",
+    "materials" : [ {
+      "material" : "Железная руда",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Марганец",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "1/4",
+      "quality" : "1"
+    }, {
+      "material" : "Кремний",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Легированный алюминий",
+    "qlt_modif" : "0.1",
+    "productId" : "1480",
+    "materials" : [ {
+      "material" : "Марганец",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Бокситы",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Сталь",
+    "qlt_modif" : "0",
+    "productId" : "1480",
+    "materials" : [ {
+      "material" : "Железная руда",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Уголь",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Алюминий",
+    "qlt_modif" : "0",
+    "productId" : "1480",
+    "materials" : [ {
+      "material" : "Бокситы",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Сувенирная мануфактура",
+  "unitSpecializations" : [ {
+    "specialization" : "Сувениры",
+    "qlt_modif" : "0",
+    "productId" : "13708",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Ёлочные украшения",
+    "qlt_modif" : "0",
+    "productId" : "13708",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Новогодний набор конфет",
+    "qlt_modif" : "0.15",
+    "productId" : "13708",
+    "materials" : [ {
+      "material" : "Конфеты",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "3/100",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Детский подарок",
+    "qlt_modif" : "0",
+    "productId" : "13708",
+    "materials" : [ {
+      "material" : "Игрушки",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "3/100",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Карнавальный костюм",
+    "qlt_modif" : "0.15",
+    "productId" : "13708",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Бижутерия",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Машиностроительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Хромированные комплектующие",
+    "qlt_modif" : "0.1",
+    "productId" : "1475",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    }, {
+      "material" : "Хром",
+      "count" : "5/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Комплектующие",
+    "qlt_modif" : "0",
+    "productId" : "1475",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Двигатель",
+    "qlt_modif" : "0",
+    "productId" : "1475",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Кофеобжарочная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Натуральный кофе",
+    "qlt_modif" : "0",
+    "productId" : "380005",
+    "materials" : [ {
+      "material" : "Кофе",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Растворимый кофе",
+    "qlt_modif" : "0",
+    "productId" : "380005",
+    "materials" : [ {
+      "material" : "Кофе",
+      "count" : "8/10",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Стекольный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Стекло",
+    "qlt_modif" : "0",
+    "productId" : "1481",
+    "materials" : [ {
+      "material" : "Кремний",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Посуда",
+    "qlt_modif" : "0",
+    "productId" : "1481",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Зеркальные листы",
+    "qlt_modif" : "0",
+    "productId" : "1481",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Целлюлозно-бумажный комбинат",
+  "unitSpecializations" : [ {
+    "specialization" : "Бумага из хлопковой целлюлозы",
+    "qlt_modif" : "0",
+    "productId" : "1472",
+    "materials" : [ {
+      "material" : "Отходы хлопчатника",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Бумага",
+    "qlt_modif" : "0",
+    "productId" : "1472",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "1/4",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Шинный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Шины",
+    "qlt_modif" : "0",
+    "productId" : "1525",
+    "materials" : [ {
+      "material" : "Резина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Энергомашиностроительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Паровая турбина",
+    "qlt_modif" : "0",
+    "productId" : "422131",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1 000",
+      "quality" : "10"
+    }, {
+      "material" : "Медь",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Титан",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "300",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "200",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Паровой котёл",
+    "qlt_modif" : "0",
+    "productId" : "422131",
+    "materials" : [ {
+      "material" : "Сталь",
+      "count" : "1 000",
+      "quality" : "10"
+    }, {
+      "material" : "Хром",
+      "count" : "50",
+      "quality" : "1"
+    }, {
+      "material" : "Глина",
+      "count" : "700",
+      "quality" : "1"
+    }, {
+      "material" : "Комплектующие",
+      "count" : "100",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "100",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика игрушек",
+  "unitSpecializations" : [ {
+    "specialization" : "Пластиковые игрушки",
+    "qlt_modif" : "0",
+    "productId" : "1514",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мягкая игрушка",
+    "qlt_modif" : "0.2",
+    "productId" : "1514",
+    "materials" : [ {
+      "material" : "Шерсть",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Куклы",
+    "qlt_modif" : "0.5",
+    "productId" : "1514",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Электронные игры",
+    "qlt_modif" : "1.0",
+    "productId" : "1514",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Электронные компоненты",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Обувная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Кожаная обувь",
+    "qlt_modif" : "0.05",
+    "productId" : "1519",
+    "materials" : [ {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Кожа",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Спортивная обувь",
+    "qlt_modif" : "0",
+    "productId" : "1519",
+    "materials" : [ {
+      "material" : "Резина",
+      "count" : "1/2",
+      "quality" : "1"
+    }, {
+      "material" : "Синтетическая ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод переработки томатов",
+  "unitSpecializations" : [ {
+    "specialization" : "Томатная паста",
+    "qlt_modif" : "0",
+    "productId" : "424438",
+    "materials" : [ {
+      "material" : "Помидоры",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Сталь",
+      "count" : "1/5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Ткацкая фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Хлопковая ткань",
+    "qlt_modif" : "0",
+    "productId" : "312796",
+    "materials" : [ {
+      "material" : "Хлопковое волокно",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Рыболовные сети",
+    "qlt_modif" : "0",
+    "productId" : "312796",
+    "materials" : [ {
+      "material" : "Хлопковое волокно",
+      "count" : "100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Хлопчатобумажная ткань",
+    "qlt_modif" : "0",
+    "productId" : "312796",
+    "materials" : [ {
+      "material" : "Хлопок",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шерстяная ткань",
+    "qlt_modif" : "0",
+    "productId" : "312796",
+    "materials" : [ {
+      "material" : "Шерсть",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шелковая ткань",
+    "qlt_modif" : "0.2",
+    "productId" : "312796",
+    "materials" : [ {
+      "material" : "Шёлк",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Мебельная фабрика",
+  "unitSpecializations" : [ {
+    "specialization" : "Зеркало",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Зеркальный лист",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мебельный гарнитур",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "20",
+      "quality" : "1"
+    }, {
+      "material" : "Стекло",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Зеркальный лист",
+      "count" : "3",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Деревянная мебель",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Древесина",
+      "count" : "10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Мягкая мебель",
+    "qlt_modif" : "0.4",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "5",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "6",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кожаная мебель",
+    "qlt_modif" : "1.0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "10",
+      "quality" : "1"
+    }, {
+      "material" : "Древесина",
+      "count" : "5",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод полимеров",
+  "unitSpecializations" : [ {
+    "specialization" : "Термопластик",
+    "qlt_modif" : "0",
+    "productId" : "423891",
+    "materials" : [ {
+      "material" : "Нефть",
+      "count" : "1",
+      "quality" : "5"
+    }, {
+      "material" : "Химикаты",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика одежды",
+  "unitSpecializations" : [ {
+    "specialization" : "Бейсболка",
+    "qlt_modif" : "0",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Одежда",
+    "qlt_modif" : "0",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Кожаная одежда",
+    "qlt_modif" : "1.5",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Кожа",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Синтетическая одежда",
+    "qlt_modif" : "0.2",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Синтетическая ткань",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Платье",
+    "qlt_modif" : "0",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "3",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Платье из шелка",
+    "qlt_modif" : "0.2",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Шёлк",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Джинсы",
+    "qlt_modif" : "0",
+    "productId" : "15334",
+    "materials" : [ {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Типография",
+  "unitSpecializations" : [ {
+    "specialization" : "Газеты",
+    "qlt_modif" : "0",
+    "productId" : "1522",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Журналы",
+    "qlt_modif" : "2.0",
+    "productId" : "1522",
+    "materials" : [ {
+      "material" : "Краска",
+      "count" : "2.50/100",
+      "quality" : "1"
+    }, {
+      "material" : "Бумага",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Канцелярские товары",
+    "qlt_modif" : "0.5",
+    "productId" : "1522",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Книги",
+    "qlt_modif" : "0",
+    "productId" : "1522",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Ткань",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Хлопкоочистительный завод",
+  "unitSpecializations" : [ {
+    "specialization" : "Хлопковое волокно",
+    "qlt_modif" : "0",
+    "productId" : "312797",
+    "materials" : [ {
+      "material" : "Хлопок",
+      "count" : "1",
+      "quality" : "4"
+    } ]
+  } ]
+}, {
+  "unitName" : "Завод бытовых изделий",
+  "unitSpecializations" : [ {
+    "specialization" : "Ручное зеркало",
+    "qlt_modif" : "0.5",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Зеркальный лист",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Стеклянная посуда",
+    "qlt_modif" : "0.1",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Бижутерия",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "2.50/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Письменные принадлежности",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "1/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/10",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Пластиковые душевые кабинки",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Пластмасса",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Алюминий",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Стеклянная бижутерия",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Стекло",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "3/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Товары для творчества",
+    "qlt_modif" : "0",
+    "productId" : "7094",
+    "materials" : [ {
+      "material" : "Бумага",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "3/10",
+      "quality" : "1"
+    }, {
+      "material" : "Пластмасса",
+      "count" : "3/10",
+      "quality" : "1"
+    } ]
+  } ]
+}, {
+  "unitName" : "Фабрика постельного белья",
+  "unitSpecializations" : [ {
+    "specialization" : "Хлопковое постельное бельё",
+    "qlt_modif" : "0",
+    "productId" : "312799",
+    "materials" : [ {
+      "material" : "Хлопковая ткань",
+      "count" : "2",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Скатерти",
+    "qlt_modif" : "0.1",
+    "productId" : "312799",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "1",
+      "quality" : "1"
+    }, {
+      "material" : "Краска",
+      "count" : "1/100",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Постельное бельё",
+    "qlt_modif" : "0",
+    "productId" : "312799",
+    "materials" : [ {
+      "material" : "Ткань",
+      "count" : "2",
+      "quality" : "1"
+    } ]
+  }, {
+    "specialization" : "Шелковое постельное бельё",
+    "qlt_modif" : "0.2",
+    "productId" : "312799",
+    "materials" : [ {
+      "material" : "Шёлк",
+      "count" : "1",
+      "quality" : "1"
+    } ]
+  } ]
+} ]

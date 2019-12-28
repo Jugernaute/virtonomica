@@ -3,13 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <title>Shops</title>
+    <link href="/css/shop.css" rel="stylesheet" >
 </head>
 <body>
 
-<ul th:each="product : ${units}">
+<ul th:each="product : ${units}"> <!--map-->
+    <li style="display: flex">
+        <a style="display: flex" href="#">
+            <!--<img style="height: 20px; width: 20px" th:attr="src=@{|/img/products/${product.value}.gif|},title=${product.value}, alt=${product.value}"/>-->
+            <span style="margin-left: 20px" th:text="${product.key.getCountryName()}"></span>
+            <span th:text="${product.key.getCityName()}"></span>
+            <ul th:each="v : ${product.value}">
+                <img style="height: 20px; width: 20px" th:attr="src=@{|/img/products/${v.getSymbol()}.gif|},title=${v.getSymbol()}, alt=${v.getSymbol()}">
+            </ul>
+        </a>
+    </li>
 
-    <p th:text="${product}"></p>
-    <img th:attr="src=@{|/img/products/${product.value}.gif|},title=${product.value},alt=${product.value}" />
 </ul>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/shop.js"></script>
+
 </body>
+<style>
+    *{
+        margin: 0;
+    }
+    a>ul{
+        display: contents;
+    }
+</style>
 </html>

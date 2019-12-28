@@ -12,15 +12,18 @@
         <th>Назва</th>
         <th>Сьогодні</th>
         <th>Вчора</th>
-        <th>За місяць</th>
-        <th>За рік</th>
+        <th>Профіт</th>
+        <!--<th>За рік</th>-->
     </tr>
     <tr th:each="f : ${finance}">
         <th th:text="${f.getItem_name()}"></th>
         <td th:text="${f.getValue()}"></td>
         <td th:text="${f.getPrev_turn_value()}"></td>
-        <td th:text="${f.getMonth_value()}"></td>
-        <td th:text="${f.getYear_value()}"></td>
+        <th:block th:with="result=${f.getValue()-f.getPrev_turn_value()}">
+
+        </th:block>
+        <td th:text="${result}"></td>
+        <!--<td th:text="${f.getYear_value()}"></td>-->
     </tr>
 </table>
 

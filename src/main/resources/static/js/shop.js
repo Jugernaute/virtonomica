@@ -12,3 +12,8 @@ $('.table tr').click(function () {
     console.log(unitId);
     console.log(unitTypeId);
 });
+
+$('ul').click(function () {
+    let text = $(this).find('li> a> span').text();
+    console.log(text);
+});

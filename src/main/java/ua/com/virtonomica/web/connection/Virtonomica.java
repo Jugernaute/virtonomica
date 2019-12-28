@@ -13,13 +13,12 @@ import org.springframework.context.EnvironmentAware;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
-import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 import java.util.Objects;
 
 @Configuration
-@PropertySource("classpath:virtonomicaConfig.properties")
+@PropertySource("classpath:entry.properties")
 public class Virtonomica implements EnvironmentAware {
     private WebClient webClient;
     private static Environment environment;

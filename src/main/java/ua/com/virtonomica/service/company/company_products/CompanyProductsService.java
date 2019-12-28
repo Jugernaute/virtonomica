@@ -1,12 +1,13 @@
 package ua.com.virtonomica.service.company.company_products;
 
+import ua.com.virtonomica.dto.shop_products.ShopsProducts;
 import ua.com.virtonomica.entity.company.CompanyProducts;
-import ua.com.virtonomica.entity.product.RetailProduct;
 
+import java.util.HashSet;
 import java.util.List;
 
 public interface CompanyProductsService {
-    List<CompanyProducts>findProductsRealizedByUnitClass(long unitClassId);
+    HashSet<ShopsProducts> findProductsRealizedByUnitClass(long unitClassId);
 
     CompanyProducts findBySymbol(String symbol);
 }

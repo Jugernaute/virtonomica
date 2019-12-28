@@ -25,6 +25,12 @@ public class CompanyProducts extends AbstractUnit {
         this.name=name;
     }
 
+    public CompanyProducts(long id, String name, String symbol) {
+        super(id, name);
+        this.name=name;
+        this.symbol = symbol;
+    }
+
     public CompanyProducts() {
     }
 
@@ -63,6 +69,7 @@ public class CompanyProducts extends AbstractUnit {
         this.companyUnits = unitsList;
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -70,15 +77,15 @@ public class CompanyProducts extends AbstractUnit {
         if (!super.equals(o)) return false;
         CompanyProducts that = (CompanyProducts) o;
         return Objects.equals(name, that.name) &&
+                Objects.equals(symbol, that.symbol) &&
                 Objects.equals(companyUnits, that.companyUnits);
     }
 
     @Override
     public int hashCode() {
 
-        return Objects.hash(super.hashCode(), name, companyUnits);
+        return Objects.hash(super.hashCode(), name, symbol, companyUnits);
     }
-
 
     @Override
     public String toString() {
