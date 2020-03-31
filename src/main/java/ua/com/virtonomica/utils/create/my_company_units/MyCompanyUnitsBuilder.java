@@ -3,6 +3,7 @@ package ua.com.virtonomica.utils.create.my_company_units;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.json.JSONObject;
 import org.springframework.stereotype.Component;
+import ua.com.virtonomica.entity.company.CompanyUnits;
 import ua.com.virtonomica.service.unit_wrapper.UnitWrapperService;
 import ua.com.virtonomica.utils.create.IUnitWrapper;
 import ua.com.virtonomica.utils.create.UnitBuilder;
@@ -14,6 +15,7 @@ import java.util.Set;
 
 @Component
 public class MyCompanyUnitsBuilder extends UnitBuilder implements JsonParser {
+
     public MyCompanyUnitsBuilder(UnitWrapperService unitWrapperService) {
         super(unitWrapperService);
     }
@@ -38,6 +40,11 @@ public class MyCompanyUnitsBuilder extends UnitBuilder implements JsonParser {
                     }
                 }
             }
+        }
+        System.out.println("wrappers:");
+        for (IUnitWrapper wrapper : wrappers) {
+            MyCompanyUnitsWrapper wrapper1 = (MyCompanyUnitsWrapper) wrapper;
+            System.out.println(wrapper1.toString());
         }
         return wrappers;
     }

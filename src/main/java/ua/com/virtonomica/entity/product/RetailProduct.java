@@ -1,5 +1,6 @@
 package ua.com.virtonomica.entity.product;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import ua.com.virtonomica.entity.AbstractUnit;
 import ua.com.virtonomica.entity.UnitId;
@@ -20,11 +21,11 @@ public class RetailProduct extends AbstractUnit implements IUnitWrapper {
     private String symbol;
 
     @ManyToOne(fetch = FetchType.EAGER,
-    cascade = CascadeType.ALL)
+    cascade = CascadeType.REFRESH)
     private RetailProductCategory retailProductCategory;
 
     @ManyToOne(fetch = FetchType.EAGER,
-    cascade = CascadeType.ALL)
+    cascade = CascadeType.REFRESH)
     private ProductImage productImage;
 
     public RetailProduct(long id, String name,String symbol) {

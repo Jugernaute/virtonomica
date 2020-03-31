@@ -15,6 +15,7 @@
      <p id="companyReportFinance"><a href="/admin/company/report/finance">Company Report Finance</a></p>
      <p id="writeFactoryInfo_Json"><a href="/admin/write/factory/info">Write factory info by json</a></p>
      <p id="calcKvala_Json"><a href="/admin/write/calculateByKvala">Write calculate by kvala into json</a></p>
+     <p id="analyseFactoryCalc"><a href="/admin/analyse/calculate/factory">Start calculate of factories ingredients </a></p>
      <div style="display: flex">
         <p ><a href="/admin/units/report/finance/">Units Report Finance</a></p>
          <select id="unitsReportFinance" onchange="document.location.href=this.value;">
@@ -25,6 +26,21 @@
          </select>
      </div>
      <p id="shop_unprofitable"><a href="/company/units/shop_unprofitable/">Shop settings</a></p>
+         <form method="post" action="/admin/writeMinQualityAndPriceForProduct" content="application/x-www-form-urlencoded;charset=UTF-8">
+             <label>
+                <input type="text" placeholder="product name" name="name">
+             </label>
+             <label>
+                 <input type="number" placeholder="min quality" name="minQuality" required>
+             </label>
+             <label>
+                 <input type="number" placeholder="max price" name="maxPrice" required>
+             </label>
+             <input type="submit" value="write">
+         </form>
+         <p><a href="/admin/writeMinQualityAndPriceForProduct/">writeMinQualityAndPriceForProduct</a></p>
+         <p><a href="/admin/write/productTradeOffers/">writeProductTradeOffers</a></p>
+     <p id="test">test</p>
      <br>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="/js/admin.js"></script>

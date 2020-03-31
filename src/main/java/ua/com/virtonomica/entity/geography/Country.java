@@ -12,6 +12,7 @@ import java.util.List;
 @AttributeOverride(name = "id",column = @Column(name = "country_id"))
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Country extends AbstractUnit {
+    private String country_symbol;
 
     @OneToMany(fetch = FetchType.LAZY,
             cascade = CascadeType.DETACH,
@@ -24,36 +25,43 @@ public class Country extends AbstractUnit {
     private List<CompanyUnits> companyUnits;
 
 
+    public Country() {
+    }
+
+    public Country(long id, String country_name) {
+        super(id, country_name);
+    }
+
+    public String getCountry_symbol() {
+        return country_symbol;
+    }
+
+    public void setCountry_symbol(String country_symbol) {
+        this.country_symbol = country_symbol;
+    }
+
     public void setRegions(List<Region> regions) {
         this.regions = regions;
+    }
+    public List<Region> getRegions() {
+        return regions;
     }
 
     public List<CompanyUnits> getCompanyUnits() {
         return companyUnits;
     }
+
     public void setCompanyUnits(List<CompanyUnits> companyUnits) {
         this.companyUnits = companyUnits;
     }
-    //    private int city_count;
 
-
-    public List<Region> getRegions() {
-        return regions;
-    }
-
-
-    public Country(long id, String country_name/*, int city_count*/) {
-        super(id, country_name);
-    }
-
-    public Country() {
-    }
 
     @Override
     public String toString() {
         return "Country{" +
                 "country_id=" + super.getId()+
                 ", country_name=" + super.getName()+
+                ", country_symbol=" + country_symbol+
                 '}';
     }
 }

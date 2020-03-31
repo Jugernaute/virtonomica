@@ -5,6 +5,8 @@ import org.springframework.transaction.annotation.Transactional;
 import ua.com.virtonomica.entity.product.RetailProduct;
 import ua.com.virtonomica.repository.product.RetailProductRepository;
 
+import java.util.List;
+
 @Service
 @Transactional
 public class RetailProductTransaction implements RetailProductService {
@@ -25,8 +27,15 @@ public class RetailProductTransaction implements RetailProductService {
     }
 
     @Override
+    public List<RetailProduct> findByIdKey(long id) {
+        String s = String.valueOf(id);
+        return retailProductRepository.findById(id);
+    }
+
+    @Override
     public RetailProduct findById(long id) {
-        return retailProductRepository.getOne(id);
+//        String s = String.valueOf(id);
+        return retailProductRepository.findById(id).get(0);
     }
 
     @Override

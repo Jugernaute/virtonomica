@@ -23,4 +23,9 @@ public class IndustryTransaction implements IndustryService {
     public void save(Industry industry) {
         industryRepository.save(industry);
     }
+
+    @Override
+    public Industry findByName(String name) {
+        return industryRepository.findByName(name);
+    }
 }

@@ -24,6 +24,19 @@ public class City extends AbstractUnit {
             mappedBy = "city")
     private List<CompanyUnits> companyUnits;
 
+    public City() {
+    }
+
+    public City(long id, String name) {
+        super(id, name);
+    }
+
+    public City(long id, String name, double citySalary, double education) {
+        super(id, name);
+        this.citySalary = citySalary;
+        this.education = education;
+    }
+
     public List<CompanyUnits> getCompanyUnits() {
         return companyUnits;
     }
@@ -32,19 +45,6 @@ public class City extends AbstractUnit {
         this.companyUnits = companyUnits;
     }
 
-    public City(long id, String name) {
-        super(id, name);
-    }
-
-
-    public City() {
-    }
-
-    public City(long id, String name, double citySalary, double education) {
-        super(id, name);
-        this.citySalary = citySalary;
-        this.education = education;
-    }
 
     public double getEducation() {
         return education;

@@ -1,6 +1,7 @@
 package ua.com.virtonomica.utils.create.my_company_units;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import ua.com.virtonomica.entity.company.CompanyProducts;
 import ua.com.virtonomica.entity.geography.City;
 import ua.com.virtonomica.entity.geography.Country;
@@ -56,9 +57,13 @@ public class MyCompanyUnitsWrapper implements IUnitWrapper {
         return name;
     }
 
-    public List<CompanyProducts>getProducts(){
+    public List<CompanyProducts> getProducts() {
         return products;
-     }
+    }
+
+    public void setProducts(List<CompanyProducts> products) {
+        this.products = products;
+    }
 
     public void setId(long id) {
         this.id = id;
@@ -112,7 +117,22 @@ public class MyCompanyUnitsWrapper implements IUnitWrapper {
 //        this.unit_type_produce_name = unit_type_produce_name;
 //    }
 
-    public void setProducts(List<CompanyProducts> products) {
-        this.products = products;
+    @Override
+    public String toString() {
+        return "MyCompanyUnitsWrapper{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", unit_type_id=" + unit_type_id +
+                ", city_name='" + city_name + '\'' +
+                ", city_id=" + city_id +
+                ", unit_class_name='" + unit_class_name + '\'' +
+                ", country_name='" + country_name + '\'' +
+                ", region_name='" + region_name + '\'' +
+                ", region_id=" + region_id +
+                ", unit_class_id=" + unit_class_id +
+                ", unit_type_name='" + unit_type_name + '\'' +
+                ", country_id=" + country_id +
+                ", product=" + products +
+                '}';
     }
 }

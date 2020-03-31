@@ -26,10 +26,16 @@ private final UnitWrapperService unitWrapperService;
         JSONObject object = new JSONObject(json);
         Set<String> keySet = object.keySet();
         for (String s : keySet) {
+            System.out.println("===============");
+            System.out.println("s");
             JSONObject jsonObject = object.getJSONObject(s);
             String value = jsonObject.toString();
+            System.out.println("value:");
+            System.out.println(value);
             ObjectMapper mapper = new ObjectMapper();
             IUnitWrapper unitWrapper = getUnitCategory(value, mapper, iUnitWrapper).get();
+            System.out.println("unitWrapper:");
+            System.out.println(unitWrapper);
             iUnitWrappers.add(unitWrapper);
         }
         return iUnitWrappers;
@@ -37,6 +43,8 @@ private final UnitWrapperService unitWrapperService;
 
     public void build(String json, IUnitWrapper iUnitWrapper){
         List<IUnitWrapper> wrapper = getWrapper(json,iUnitWrapper);
+        System.out.println("wrapper:");
+        System.out.println(wrapper);
         for (IUnitWrapper unitWrapper : wrapper) {
             saver(unitWrapper);
         }

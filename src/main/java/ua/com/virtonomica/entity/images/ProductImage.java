@@ -1,5 +1,6 @@
 package ua.com.virtonomica.entity.images;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import ua.com.virtonomica.entity.AbstractUnit;
 import ua.com.virtonomica.entity.UnitId;
 import ua.com.virtonomica.entity.product.MainProduct;
@@ -20,11 +21,13 @@ public class ProductImage extends AbstractUnit {
     private String linkImage;
     private String symbol;
 
+    @JsonIgnore
     @OneToMany(cascade = CascadeType.REFRESH,
     fetch = FetchType.LAZY,
     mappedBy = "productImage")
     private List<MainProduct> mainProduct;
 
+    @JsonIgnore
     @OneToMany(cascade = CascadeType.REFRESH,
             fetch = FetchType.LAZY,
             mappedBy = "productImage")

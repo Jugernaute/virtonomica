@@ -1,6 +1,8 @@
 package ua.com.virtonomica.utils.reports;
 
+import com.fasterxml.jackson.annotation.JsonGetter;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
@@ -13,7 +15,8 @@ public class UnitsReportFinance implements Comparable<UnitsReportFinance> {
     private String country_name;
     private String region_name;
     private String city_name;
-    private String cashflow;
+    @JsonProperty(value = "cashflow")
+    private String cashFlow;
 
     public long getId() {
         return id;
@@ -39,8 +42,20 @@ public class UnitsReportFinance implements Comparable<UnitsReportFinance> {
         return city_name;
     }
 
+//    public String setCashFlow(String cashFlow){
+//        return cashFlow;
+//    }
+
     public String getCashflow() {
-       return new DecimalFormat("###,###.##").format(BigDecimal.valueOf(Double.valueOf(cashflow)));
+//        if (cashFlow == null)cashFlow="0";
+       return new DecimalFormat("###,###.##").format(BigDecimal.valueOf(Double.parseDouble(cashFlow)));
+    }
+
+    @Override
+    public int compareTo(UnitsReportFinance o) {
+        BigDecimal decimal_1 = BigDecimal.valueOf(Double.parseDouble(this.cashFlow));
+        BigDecimal decimal_2 = BigDecimal.valueOf(Double.parseDouble(o.cashFlow));
+        return decimal_2.compareTo(decimal_1);
     }
 
     @Override
@@ -52,14 +67,7 @@ public class UnitsReportFinance implements Comparable<UnitsReportFinance> {
                 ", country_name='" + country_name + '\'' +
                 ", region_name='" + region_name + '\'' +
                 ", city_name='" + city_name + '\'' +
-                ", cashflow='" + cashflow + '\'' +
+                ", cashflow='" + cashFlow + '\'' +
                 '}';
-    }
-
-    @Override
-    public int compareTo(UnitsReportFinance o) {
-        BigDecimal decimal_1 = BigDecimal.valueOf(Double.valueOf(this.cashflow));
-        BigDecimal decimal_2 = BigDecimal.valueOf(Double.valueOf(o.cashflow));
-        return decimal_2.compareTo(decimal_1);
     }
 }

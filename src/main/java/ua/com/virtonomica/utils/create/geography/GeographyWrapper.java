@@ -23,6 +23,12 @@ public class GeographyWrapper implements IUnitWrapper {
         this.region = new Region(region_id, region_name);
     }
 
+    public GeographyWrapper(long city_id, String city_name, long country_id, String country_name, long region_id, String region_name) {
+        this.city = new City(city_id, city_name);
+        this.country = new Country(country_id, country_name);
+        this.region = new Region(region_id, region_name);
+    }
+
     public Region getRegion() {
         return region;
     }

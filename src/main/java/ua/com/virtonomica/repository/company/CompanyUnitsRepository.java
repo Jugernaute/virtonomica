@@ -12,5 +12,6 @@ public interface CompanyUnitsRepository extends JpaRepository<CompanyUnits,Long>
 
     List<CompanyUnits> findByUnitType_Name(String name);
 
-    List<CompanyUnits>findByProductsContainsAndUnitClass_Name (List<CompanyProducts> s, String name);
+    List<CompanyUnits>findByCompanyProductContainsAndUnitClass_Name (CompanyProducts s, String name);
+    List<CompanyUnits>findByCompanyProduct_Name(String product);
 }

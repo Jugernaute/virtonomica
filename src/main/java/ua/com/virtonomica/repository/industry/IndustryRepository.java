@@ -6,4 +6,5 @@ import ua.com.virtonomica.entity.industrial.Industry;
 
 @Repository
 public interface IndustryRepository extends JpaRepository<Industry,Long> {
+    Industry findByName(String name);
 }

@@ -26,6 +26,9 @@ public class ShopSettings {
     }
 
     //Вкладка доставки
+
+    // мабуть цей метод потрыбно видалити и переробити на АПИ!!!!!!!!!!!!!!!!!!!!!!!!
+
     public List<UnitsSupplyContracts> SupplyTab(long shopId/*, long contractId*/){
         logger.info("Запуск методу переходу на вкладку поставщиків в магазині...");
         WebClient webClient = UserWebClient.webClient;
