@@ -4,6 +4,7 @@ import com.gargoylesoftware.htmlunit.FailingHttpStatusCodeException;
 import com.gargoylesoftware.htmlunit.Page;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import org.springframework.cache.annotation.Cacheable;
 import ua.com.virtonomica.web.connection.UserWebClient;
 
 import java.io.IOException;
@@ -12,6 +13,7 @@ import java.net.URL;
 
 public class HtmlPageData {
 
+    @Cacheable("find")
     public String getContent(String url){
         WebClient webClient = getWebClient();
         String content = "";

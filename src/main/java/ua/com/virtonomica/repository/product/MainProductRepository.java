@@ -16,4 +16,5 @@ public interface MainProductRepository extends JpaRepository<MainProduct,UnitId>
 //    @Query(value = "select p.id from MainProduct p where p.name=:name")
 //    long getIdByName(@Param("name") String name);
     MainProduct findByName(String name);
+    boolean existsByNameIgnoreCase(String name);
 }

@@ -16,8 +16,9 @@ public class CompanyProducts extends AbstractUnit {
     private String name;
     private String symbol;
 
-    @ManyToMany(cascade = CascadeType.REFRESH,
-    fetch = FetchType.EAGER)
+    @OneToMany(cascade = CascadeType.REFRESH,
+    fetch = FetchType.EAGER,
+    mappedBy = "companyProduct")
     private List<CompanyUnits> companyUnits;
 
     public CompanyProducts(long id, String name) {

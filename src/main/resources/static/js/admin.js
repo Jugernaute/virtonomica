@@ -98,3 +98,15 @@ $('#downloadImage').click(function () {
 function unitsReport() {
     console.log("ok");
 }
+
+$('#test').click(function () {
+    let url = "https://cobr123.github.io/industry/lien/recipe_312797.json";
+    $.getJSON(url, function (data) {
+        $.each(data,function (k, v) {
+            console.log(k);
+            console.log(v);
+            console.log("====================");
+        })
+    });
+
+})

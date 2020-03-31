@@ -2,7 +2,9 @@ package ua.com.virtonomica.web.api.analysis.industry_analysis.write_json;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
 import com.gargoylesoftware.htmlunit.html.*;
+import org.springframework.transaction.annotation.Transactional;
 import ua.com.virtonomica.utils.reports.DependencyDataFromQualification;
 import ua.com.virtonomica.utils.reports.MaxPersonsInFieldOfActivity;
 import ua.com.virtonomica.web.api.HtmlPageData;
@@ -10,18 +12,38 @@ import ua.com.virtonomica.web.api.analysis.industry_analysis.DomNodeWorking;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.Serializable;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
 public class WriteDataIntoJson extends DomNodeWorking {
     private HtmlPageData htmlPageData = new HtmlPageData();
+    private final static DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
+    private static String dataTime = LocalDateTime.now().format(dtf);
 
+
+    @Transactional
     public void write (String url, File file){
         List<DependencyDataFromQualification> list = getObjects(url);
         ObjectMapper mapper = new ObjectMapper();
         try {
             mapper.writeValue(file,list);
+            System.out.println("Write json success into file '"+file+"'");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Transactional
+    public void write(Object url, File file){
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.enable(SerializationFeature.INDENT_OUTPUT);
+        try {
+            mapper.writerWithDefaultPrettyPrinter().writeValue(file,url);
             System.out.println("Write json success into file '"+file+"'");
         } catch (IOException e) {
             e.printStackTrace();

@@ -1,5 +1,6 @@
 package ua.com.virtonomica.entity.product;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import ua.com.virtonomica.entity.AbstractUnit;
 import ua.com.virtonomica.entity.images.ProductImage;

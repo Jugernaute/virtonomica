@@ -39,11 +39,13 @@ public class CompanyUnits extends AbstractUnit {
     private UnitClass unitClass;
 
 //    @NotFound(action = NotFoundAction.IGNORE)
-    @ManyToMany(fetch = FetchType.EAGER,
-            cascade = CascadeType.ALL/*,
-    mappedBy = "unitsList"*/)
-    private List<CompanyProducts> products;
-
+//    @ManyToMany(fetch = FetchType.EAGER,
+//            cascade = CascadeType.ALL/*,
+//    mappedBy = "unitsList"*/)
+//    private List<CompanyProducts> products;
+    @ManyToOne(fetch = FetchType.EAGER,
+            cascade = CascadeType.ALL)
+    private CompanyProducts companyProduct;
 
     public CompanyUnits(MyCompanyUnitsWrapper units) {
 
@@ -58,8 +60,8 @@ public class CompanyUnits extends AbstractUnit {
         setUnitClass(unitClass);
         this.unitType = units.getUnitType();
         setUnitType(unitType);
-        this.products = units.getProducts();
-        setProducts(products);
+        this.companyProduct = units.getProducts().get(0);
+        setCompanyProduct(companyProduct);
     }
 
     public CompanyUnits(long id, String name) {
@@ -109,14 +111,13 @@ public class CompanyUnits extends AbstractUnit {
         this.unitClass = unitClass;
     }
 
-    public List<CompanyProducts> getProducts() {
-        return products;
+    public CompanyProducts getCompanyProduct() {
+        return companyProduct;
     }
 
-    public void setProducts(List<CompanyProducts> products) {
-        this.products = products;
+    public void setCompanyProduct(CompanyProducts companyProduct) {
+        this.companyProduct = companyProduct;
     }
-
 
     @Override
     public String toString() {
@@ -127,7 +128,7 @@ public class CompanyUnits extends AbstractUnit {
                 ", city=" + city.getName() +
                 ", unitType=" + unitType.getName() +
                 ", unitClass=" + unitClass.getName() +
-                ", products=" + products +
+                ", companyProduct=" + companyProduct +
                 '}';
     }
 }

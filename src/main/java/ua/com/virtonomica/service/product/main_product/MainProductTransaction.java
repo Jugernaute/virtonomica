@@ -27,6 +27,11 @@ public class MainProductTransaction implements MainProductService{
     }
 
     @Override
+    public boolean isExistByName(String name) {
+        return mainProductRepository.existsByNameIgnoreCase(name);
+    }
+
+    @Override
     public MainProduct findById(long id) {
         return null;
     }
