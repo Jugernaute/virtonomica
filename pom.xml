@@ -110,6 +110,9 @@
 
 <!--    округление double-->
         <!-- https://mvnrepository.com/artifact/org.decimal4j/decimal4j -->
+
+        <!--    округление double-->
+        <!-- https://mvnrepository.com/artifact/org.decimal4j/decimal4j -->
         <dependency>
             <groupId>org.decimal4j</groupId>
             <artifactId>decimal4j</artifactId>
@@ -120,6 +123,17 @@
             <artifactId>annotations</artifactId>
             <version>RELEASE</version>
             <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>4.1.4.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.2.3.Final</version>
         </dependency>
     </dependencies>
 
