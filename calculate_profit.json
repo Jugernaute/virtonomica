@@ -1,0 +1,2428 @@
+{
+  "Посуда" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Стекло",
+        "count" : "146263",
+        "quality" : "6.1",
+        "price" : 21.0
+      } ],
+      "productId" : 1521,
+      "productCostPrice" : 42.54,
+      "productCount" : 146263,
+      "productQuality" : 18.96
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401859,
+          "name" : "Чэнду",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401806,
+          "name" : "Южный Китай",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4767691,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 1003,
+      "price" : 89150.0,
+      "quality" : 17.57,
+      "brand" : 0.0696510468594217
+    },
+    "profit" : 13033124421
+  },
+  "Телевизоры" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Пластмасса",
+        "count" : "7313",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "\"Электронные компоненты\"",
+        "count" : "7313",
+        "quality" : "3.59",
+        "price" : 100.0
+      }, {
+        "material" : "Стекло",
+        "count" : "7313",
+        "quality" : "6.1",
+        "price" : 21.0
+      } ],
+      "productId" : 3868,
+      "productCostPrice" : 313.36,
+      "productCount" : 14626,
+      "productQuality" : 20.1
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4093061,
+      "unit_name" : "Элек",
+      "company_id" : 3023923,
+      "company_name" : "Kaer Trade",
+      "shop_size" : 300000,
+      "district_name" : "Центр города",
+      "qty" : 24,
+      "price" : 565200.0,
+      "quality" : 14.56,
+      "brand" : 0.0475
+    },
+    "profit" : 8262031996
+  },
+  "Скутер" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Углепластик",
+        "count" : "21939",
+        "quality" : "14.59",
+        "price" : 200.0
+      }, {
+        "material" : "Двигатель",
+        "count" : "7313",
+        "quality" : "28.67",
+        "price" : 300.0
+      }, {
+        "material" : "Шины",
+        "count" : "14626",
+        "quality" : "21.76",
+        "price" : 197.0
+      }, {
+        "material" : "\"Сверхлёгкий алюминиевый сплав\"",
+        "count" : "3656",
+        "quality" : "16.01",
+        "price" : 680000.0
+      } ],
+      "productId" : 424346,
+      "productCostPrice" : 341671.15,
+      "productCount" : 7313,
+      "productQuality" : 33.52
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422662,
+          "name" : "Чикаго",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422653,
+          "name" : "Соединенные Штаты Америки",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422657,
+          "name" : "Средний Запад",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5001337,
+      "unit_name" : "Автомагазин Чикаго",
+      "company_id" : 4025639,
+      "company_name" : "Grem88 Финанс",
+      "shop_size" : 200000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 8872,
+      "price" : 1350000.0,
+      "quality" : 25.52,
+      "brand" : 4.29598512173129
+    },
+    "profit" : 7373908880
+  },
+  "Подарки и Сувениры" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Игрушки",
+        "count" : "146263",
+        "quality" : "19.21",
+        "price" : 2.0
+      }, {
+        "material" : "Краска",
+        "count" : "4387",
+        "quality" : "7.58",
+        "price" : 35.0
+      }, {
+        "material" : "Бумага",
+        "count" : "43878",
+        "quality" : "15.81",
+        "price" : 3000.0
+      } ],
+      "productId" : 13708,
+      "productCostPrice" : 924.57,
+      "productCount" : 146263,
+      "productQuality" : 32.73
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 2933,
+          "name" : "Москва",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 2931,
+          "name" : "Россия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 2932,
+          "name" : "Центральная Россия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3414979,
+      "unit_name" : "Домашний Уют",
+      "company_id" : 3405632,
+      "company_name" : "dima.serebryak и компания",
+      "shop_size" : 110000,
+      "district_name" : "Центр города",
+      "qty" : 3052,
+      "price" : 45984.22,
+      "quality" : 30.3,
+      "brand" : 2.82
+    },
+    "profit" : 6590559587
+  },
+  "Растворимый кофе" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Кофе",
+        "count" : "1170104",
+        "quality" : "6.23",
+        "price" : 2969.0
+      }, {
+        "material" : "Стекло",
+        "count" : "146263",
+        "quality" : "6.1",
+        "price" : 21.0
+      } ],
+      "productId" : 380006,
+      "productCostPrice" : 2379.45,
+      "productCount" : 1462630,
+      "productQuality" : 19.14
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 424333,
+          "name" : "Турин",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 424325,
+          "name" : "Италия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 424326,
+          "name" : "Северо-Западная Италия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5278015,
+      "unit_name" : "1.2.1 Бакалея Турин",
+      "company_id" : 5238779,
+      "company_name" : "Glukes Ltd.",
+      "shop_size" : 70000,
+      "district_name" : "Центр города",
+      "qty" : 17378,
+      "price" : 4500.0,
+      "quality" : 3.67,
+      "brand" : 0.0
+    },
+    "profit" : 3101580046
+  },
+  "Фототехника" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Пластмасса",
+        "count" : "18282",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "Стекло",
+        "count" : "3656",
+        "quality" : "6.1",
+        "price" : 21.0
+      }, {
+        "material" : "\"Зеркальный лист\"",
+        "count" : "3656",
+        "quality" : "21.25",
+        "price" : 60000.0
+      } ],
+      "productId" : 1523,
+      "productCostPrice" : 6124.8,
+      "productCount" : 36565,
+      "productQuality" : 31.488
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422409,
+          "name" : "Буэнос Айрес",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422406,
+          "name" : "Аргентина",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422407,
+          "name" : "Междуречье и Ла-Плата",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4310325,
+      "unit_name" : "NauMart Буэнос Айрес",
+      "company_id" : 3159621,
+      "company_name" : "NauMart",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 3007,
+      "price" : 80000.0,
+      "quality" : 23.55,
+      "brand" : 0.0
+    },
+    "profit" : 2701246688
+  },
+  "Автомобиль" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Сталь",
+        "count" : "14626",
+        "quality" : "5.5",
+        "price" : 35.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "5850",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "\"Электронные компоненты\"",
+        "count" : "1462",
+        "quality" : "3.59",
+        "price" : 100.0
+      }, {
+        "material" : "Комплектующие",
+        "count" : "14626",
+        "quality" : "14.37",
+        "price" : 25.0
+      }, {
+        "material" : "Краска",
+        "count" : "5850",
+        "quality" : "7.58",
+        "price" : 35.0
+      }, {
+        "material" : "Двигатель",
+        "count" : "1462",
+        "quality" : "28.67",
+        "price" : 300.0
+      }, {
+        "material" : "Шины",
+        "count" : "5850",
+        "quality" : "21.76",
+        "price" : 197.0
+      } ],
+      "productId" : 1509,
+      "productCostPrice" : 4381.36,
+      "productCount" : 1462,
+      "productQuality" : 26.06
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401943,
+          "name" : "Давао",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401799,
+          "name" : "Филиппины",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401826,
+          "name" : "Филиппины",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5171154,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 200000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 15,
+      "price" : 1230000.0,
+      "quality" : 21.0,
+      "brand" : 0.00466666666666667
+    },
+    "profit" : 1791854451
+  },
+  "Детская кроватка" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Древесина",
+        "count" : "140412",
+        "quality" : "11.95",
+        "price" : 10000.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "23402",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "Шерсть",
+        "count" : "46804",
+        "quality" : "40.35",
+        "price" : 38.0
+      }, {
+        "material" : "Ткань",
+        "count" : "23402",
+        "quality" : "20.44",
+        "price" : 15.0
+      } ],
+      "productId" : 423623,
+      "productCostPrice" : 60300.38,
+      "productCount" : 23402,
+      "productQuality" : 32.9
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401884,
+          "name" : "Сингапур",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401794,
+          "name" : "Республика Сингапур",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401812,
+          "name" : "Республика Сингапур",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5089119,
+      "unit_name" : "Магазин Синга",
+      "company_id" : 4898915,
+      "company_name" : "Vladi",
+      "shop_size" : 300000,
+      "district_name" : "Центр города",
+      "qty" : 14122,
+      "price" : 119000.0,
+      "quality" : 30.53,
+      "brand" : 3.33
+    },
+    "profit" : 1373688507
+  },
+  "Игрушки" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Шерсть",
+        "count" : "219248",
+        "quality" : "40.35",
+        "price" : 38.0
+      }, {
+        "material" : "Ткань",
+        "count" : "109624",
+        "quality" : "20.44",
+        "price" : 15.0
+      } ],
+      "productId" : 1514,
+      "productCostPrice" : 59.87,
+      "productCount" : 219248,
+      "productQuality" : 53.484
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3525910,
+      "unit_name" : "Янцзы. Магазин Пром",
+      "company_id" : 3395948,
+      "company_name" : "some company",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 4277,
+      "price" : 5000.0,
+      "quality" : 50.3,
+      "brand" : 0.46
+    },
+    "profit" : 1083113622
+  },
+  "Сыр фета" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Молоко",
+        "count" : "292526",
+        "quality" : "12.68",
+        "price" : 3.0
+      }, {
+        "material" : "Специи",
+        "count" : "58505",
+        "quality" : "20.19",
+        "price" : 20000.0
+      } ],
+      "productId" : 422205,
+      "productCostPrice" : 4013.75,
+      "productCount" : 292526,
+      "productQuality" : 28.65
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 424619,
+          "name" : "Антверпен",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 424615,
+          "name" : "Бельгия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 424616,
+          "name" : "Фландрия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5597127,
+      "unit_name" : "Store 16",
+      "company_id" : 3141236,
+      "company_name" : "Syntax Corporation",
+      "shop_size" : 10000,
+      "district_name" : "Центр города",
+      "qty" : 60000,
+      "price" : 7000.0,
+      "quality" : 10.15,
+      "brand" : 0.0
+    },
+    "profit" : 873555767
+  },
+  "Зубная паста" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "\"Цветы и эфиромасличные культуры\"",
+        "count" : "29252",
+        "quality" : "7.52",
+        "price" : 4500.0
+      }, {
+        "material" : "\"Природные минералы\"",
+        "count" : "58505",
+        "quality" : "1.0",
+        "price" : 6.1
+      }, {
+        "material" : "Пластмасса",
+        "count" : "117010",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 424450,
+      "productCostPrice" : 491.98,
+      "productCount" : 292526,
+      "productQuality" : 21.14
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401884,
+          "name" : "Сингапур",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401794,
+          "name" : "Республика Сингапур",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401812,
+          "name" : "Республика Сингапур",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5153133,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 166716,
+      "price" : 3241.0,
+      "quality" : 18.52,
+      "brand" : 3.08
+    },
+    "profit" : 804159824
+  },
+  "Красная икра" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Сталь",
+        "count" : "7313",
+        "quality" : "5.5",
+        "price" : 35.0
+      }, {
+        "material" : "Лосось",
+        "count" : "146263",
+        "quality" : "12.94",
+        "price" : 7700.0
+      } ],
+      "productId" : 335179,
+      "productCostPrice" : 30893.14,
+      "productCount" : 36565,
+      "productQuality" : 27.23
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4766288,
+      "unit_name" : "Янцзы. Магазин Бак",
+      "company_id" : 3395948,
+      "company_name" : "some company",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 7353,
+      "price" : 50000.0,
+      "quality" : 22.22,
+      "brand" : 0.0
+    },
+    "profit" : 698642335
+  },
+  "Кукурузные хлопья" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Кукуруза",
+        "count" : "292526",
+        "quality" : "16.26",
+        "price" : 1240.0
+      }, {
+        "material" : "Сахар",
+        "count" : "117010",
+        "quality" : "1.0",
+        "price" : 1.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "58505",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "Бумага",
+        "count" : "58505",
+        "quality" : "15.81",
+        "price" : 3000.0
+      } ],
+      "productId" : 422546,
+      "productCostPrice" : 933.08,
+      "productCount" : 585052,
+      "productQuality" : 26.83
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401867,
+          "name" : "Гонконг",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401807,
+          "name" : "Гонконг и Макао",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4681160,
+      "unit_name" : "Store ",
+      "company_id" : 4667930,
+      "company_name" : "Flat line",
+      "shop_size" : 211300,
+      "district_name" : "Центр города",
+      "qty" : 120000,
+      "price" : 1900.0,
+      "quality" : 18.76,
+      "brand" : 2.7
+    },
+    "profit" : 565698479
+  },
+  "Парфюмерия" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "\"Парфюмерная эссенция\"",
+        "count" : "58505",
+        "quality" : "2.71",
+        "price" : 41.0
+      }, {
+        "material" : "Стекло",
+        "count" : "58505",
+        "quality" : "6.1",
+        "price" : 21.0
+      }, {
+        "material" : "\"Спиртные напитки\"",
+        "count" : "58505",
+        "quality" : "17.91",
+        "price" : 40.0
+      } ],
+      "productId" : 16007,
+      "productCostPrice" : 15.58,
+      "productCount" : 585052,
+      "productQuality" : 22.91
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5030553,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 450000,
+      "price" : 958.3,
+      "quality" : 22.09,
+      "brand" : 1.72
+    },
+    "profit" : 551540221
+  },
+  "Косметические маски" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "\"Косметическое масло\"",
+        "count" : "292526",
+        "quality" : "7.26",
+        "price" : 100.0
+      }, {
+        "material" : "Воск",
+        "count" : "292526",
+        "quality" : "40.52",
+        "price" : 8.0
+      }, {
+        "material" : "Мёд",
+        "count" : "29252",
+        "quality" : "30.33",
+        "price" : 5.0
+      }, {
+        "material" : "\"Маточное молочко\"",
+        "count" : "29252",
+        "quality" : "36.05",
+        "price" : 3.5
+      }, {
+        "material" : "Пластмасса",
+        "count" : "29252",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 423160,
+      "productCostPrice" : 127.12,
+      "productCount" : 292526,
+      "productQuality" : 37.71
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5340138,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 238164,
+      "price" : 1007.0,
+      "quality" : 35.2,
+      "brand" : 0.0128507247107035
+    },
+    "profit" : 257387776
+  },
+  "Ювелирные украшения" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Золото",
+        "count" : "5850",
+        "quality" : "1.0",
+        "price" : 100000.0
+      } ],
+      "productId" : 1526,
+      "productCostPrice" : 100529.5,
+      "productCount" : 5850,
+      "productQuality" : 7.68
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401859,
+          "name" : "Чэнду",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401806,
+          "name" : "Южный Китай",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5348942,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 5056,
+      "price" : 143100.0,
+      "quality" : 6.06,
+      "brand" : 0.00162183544303797
+    },
+    "profit" : 249037425
+  },
+  "Кованая садовая мебель" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Медь",
+        "count" : "2457",
+        "quality" : "9.58",
+        "price" : 115000.0
+      }, {
+        "material" : "Цинк",
+        "count" : "1053",
+        "quality" : "10.95",
+        "price" : 44000.0
+      }, {
+        "material" : "Древесина",
+        "count" : "3510",
+        "quality" : "11.95",
+        "price" : 10000.0
+      } ],
+      "productId" : 423743,
+      "productCostPrice" : 104588.11,
+      "productCount" : 3510,
+      "productQuality" : 25.42
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 2933,
+          "name" : "Москва",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 2931,
+          "name" : "Россия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 2932,
+          "name" : "Центральная Россия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3414979,
+      "unit_name" : "Домашний Уют",
+      "company_id" : 3405632,
+      "company_name" : "dima.serebryak и компания",
+      "shop_size" : 110000,
+      "district_name" : "Центр города",
+      "qty" : 9682,
+      "price" : 170940.0,
+      "quality" : 17.19,
+      "brand" : 0.0
+    },
+    "profit" : 232895133
+  },
+  "Спальная мебель" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Ткань",
+        "count" : "108965",
+        "quality" : "20.44",
+        "price" : 15.0
+      }, {
+        "material" : "Древесина",
+        "count" : "130759",
+        "quality" : "11.95",
+        "price" : 10000.0
+      } ],
+      "productId" : 1516,
+      "productCostPrice" : 60219.47,
+      "productCount" : 21793,
+      "productQuality" : 42.728
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401855,
+          "name" : "Нанкин",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5485498,
+      "unit_name" : "Магазин",
+      "company_id" : 2668384,
+      "company_name" : "100",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 14436,
+      "price" : 70000.0,
+      "quality" : 41.22,
+      "brand" : 0.0
+    },
+    "profit" : 213147090
+  },
+  "Бронзовый декор" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Медь",
+        "count" : "10530",
+        "quality" : "9.58",
+        "price" : 115000.0
+      }, {
+        "material" : "Алюминий",
+        "count" : "1755",
+        "quality" : "11.47",
+        "price" : 495000.0
+      } ],
+      "productId" : 370076,
+      "productCostPrice" : 593344.55,
+      "productCount" : 3510,
+      "productQuality" : 24.09
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401871,
+          "name" : "Токио",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401792,
+          "name" : "Япония",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401809,
+          "name" : "Хонсю",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4914701,
+      "unit_name" : "Япош 1",
+      "company_id" : 4898915,
+      "company_name" : "Vladi",
+      "shop_size" : 111000,
+      "district_name" : "Центр города",
+      "qty" : 790,
+      "price" : 650000.0,
+      "quality" : 18.8,
+      "brand" : 4.48
+    },
+    "profit" : 198860629
+  },
+  "Продукты быстрого приготовления" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Мука",
+        "count" : "731315",
+        "quality" : "6.52",
+        "price" : 0.4
+      }, {
+        "material" : "Яйца",
+        "count" : "1462630",
+        "quality" : "5.36",
+        "price" : 1.5
+      }, {
+        "material" : "Соусы",
+        "count" : "292526",
+        "quality" : "39.11",
+        "price" : 60.0
+      }, {
+        "material" : "Масло",
+        "count" : "292526",
+        "quality" : "24.17",
+        "price" : 20.0
+      } ],
+      "productId" : 15749,
+      "productCostPrice" : 19.85,
+      "productCount" : 1462630,
+      "productQuality" : 23.121000000000002
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401871,
+          "name" : "Токио",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401792,
+          "name" : "Япония",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401809,
+          "name" : "Хонсю",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4422666,
+      "unit_name" : "Токио. Магазин Еда",
+      "company_id" : 3395948,
+      "company_name" : "some company",
+      "shop_size" : 300000,
+      "district_name" : "Спальный район",
+      "qty" : 1265364,
+      "price" : 130.0,
+      "quality" : 23.08,
+      "brand" : 0.0
+    },
+    "profit" : 161108694
+  },
+  "Мороженое" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Молоко",
+        "count" : "1828287",
+        "quality" : "12.68",
+        "price" : 3.0
+      }, {
+        "material" : "Сахар",
+        "count" : "1828287",
+        "quality" : "1.0",
+        "price" : 1.0
+      } ],
+      "productId" : 1500,
+      "productCostPrice" : 2.86,
+      "productCount" : 3656575,
+      "productQuality" : 20.07
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3525909,
+      "unit_name" : "Янцзы. Магазин Еда",
+      "company_id" : 3395948,
+      "company_name" : "some company",
+      "shop_size" : 200000,
+      "district_name" : "Центр города",
+      "qty" : 5000001,
+      "price" : 44.0,
+      "quality" : 18.62,
+      "brand" : 0.879999824000035
+    },
+    "profit" : 150431495
+  },
+  "Томатная паста" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Помидоры",
+        "count" : "585052",
+        "quality" : "6.84",
+        "price" : 1200.0
+      }, {
+        "material" : "Сталь",
+        "count" : "58505",
+        "quality" : "5.5",
+        "price" : 35.0
+      } ],
+      "productId" : 424438,
+      "productCostPrice" : 2417.77,
+      "productCount" : 292526,
+      "productQuality" : 19.9
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401936,
+          "name" : "Бангкок",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401797,
+          "name" : "Таиланд",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401824,
+          "name" : "Таиланд",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5027973,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 138252,
+      "price" : 2858.0,
+      "quality" : 19.24,
+      "brand" : 3.08
+    },
+    "profit" : 128778720
+  },
+  "Велосипед" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Углепластик",
+        "count" : "58505",
+        "quality" : "14.59",
+        "price" : 200.0
+      }, {
+        "material" : "Резина",
+        "count" : "29252",
+        "quality" : "4.82",
+        "price" : 35.0
+      } ],
+      "productId" : 1513,
+      "productCostPrice" : 271.34,
+      "productCount" : 58505,
+      "productQuality" : 31.008
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422661,
+          "name" : "Лос-Анджелес",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422653,
+          "name" : "Соединенные Штаты Америки",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422659,
+          "name" : "Западные штаты",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3353248,
+      "unit_name" : "NauMart - Лос-Анджелес",
+      "company_id" : 3159621,
+      "company_name" : "NauMart",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 99423,
+      "price" : 2000.0,
+      "quality" : 21.57,
+      "brand" : 4.22183126640717
+    },
+    "profit" : 101135253
+  },
+  "Никотиновый пластырь" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Табак",
+        "count" : "7313",
+        "quality" : "7.05",
+        "price" : 1800.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "7313",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 422199,
+      "productCostPrice" : 230.57,
+      "productCount" : 73131,
+      "productQuality" : 22.99
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401884,
+          "name" : "Сингапур",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401794,
+          "name" : "Республика Сингапур",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401812,
+          "name" : "Республика Сингапур",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5445003,
+      "unit_name" : "Аптека Сингапур",
+      "company_id" : 3517121,
+      "company_name" : "iBurj",
+      "shop_size" : 100000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 284128,
+      "price" : 1550.0,
+      "quality" : 18.51,
+      "brand" : 4.89
+    },
+    "profit" : 96491235
+  },
+  "Бижутерия" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Пластмасса",
+        "count" : "14626",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "Краска",
+        "count" : "3656",
+        "quality" : "7.58",
+        "price" : 35.0
+      } ],
+      "productId" : 2540,
+      "productCostPrice" : 29.91,
+      "productCount" : 146263,
+      "productQuality" : 24.55
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 5033,
+          "name" : "Сочи",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 2931,
+          "name" : "Россия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 2945,
+          "name" : "Южная Россия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3264174,
+      "unit_name" : "Магазин Ювелирка",
+      "company_id" : 3264167,
+      "company_name" : "44 Финанс",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 200402,
+      "price" : 685.58,
+      "quality" : 17.25,
+      "brand" : 0.0
+    },
+    "profit" : 95900261
+  },
+  "Товары для творчества" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Бумага",
+        "count" : "43878",
+        "quality" : "15.81",
+        "price" : 3000.0
+      }, {
+        "material" : "Краска",
+        "count" : "43878",
+        "quality" : "7.58",
+        "price" : 35.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "43878",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 423722,
+      "productCostPrice" : 954.52,
+      "productCount" : 146263,
+      "productQuality" : 25.95
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422409,
+          "name" : "Буэнос Айрес",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422406,
+          "name" : "Аргентина",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422407,
+          "name" : "Междуречье и Ла-Плата",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3206562,
+      "unit_name" : "La Tienda Fashion",
+      "company_id" : 4102219,
+      "company_name" : "LANEL DARYE Limited",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 383289,
+      "price" : 1600.0,
+      "quality" : 25.2,
+      "brand" : 4.06
+    },
+    "profit" : 94409841
+  },
+  "Рыбий жир" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Треска",
+        "count" : "292526",
+        "quality" : "5.96",
+        "price" : 2300.0
+      }, {
+        "material" : "Картофель",
+        "count" : "14626",
+        "quality" : "6.94",
+        "price" : 1190.0
+      } ],
+      "productId" : 423483,
+      "productCostPrice" : 4740.53,
+      "productCount" : 146263,
+      "productQuality" : 18.81
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422612,
+          "name" : "Мехико",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422607,
+          "name" : "Мексика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422610,
+          "name" : "Центральная Мексика",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3277074,
+      "unit_name" : "Мек Аптека",
+      "company_id" : 3202596,
+      "company_name" : "Grobov production",
+      "shop_size" : 100000,
+      "district_name" : "Спальный район",
+      "qty" : 38143,
+      "price" : 5342.0,
+      "quality" : 16.24,
+      "brand" : 0.0
+    },
+    "profit" : 87972806
+  },
+  "Автомобильные багажники" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Углепластик",
+        "count" : "73131",
+        "quality" : "14.59",
+        "price" : 200.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "73131",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 422717,
+      "productCostPrice" : 318.07,
+      "productCount" : 73131,
+      "productQuality" : 27.4
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 2933,
+          "name" : "Москва",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 2931,
+          "name" : "Россия",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 2932,
+          "name" : "Центральная Россия",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4884326,
+      "unit_name" : "Магазин",
+      "company_id" : 2668384,
+      "company_name" : "100",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 139407,
+      "price" : 1500.0,
+      "quality" : 24.15,
+      "brand" : 0.0506608706879855
+    },
+    "profit" : 86435722
+  },
+  "Радионяня" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "\"Электронные компоненты\"",
+        "count" : "18282",
+        "quality" : "3.59",
+        "price" : 100.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "36565",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 423626,
+      "productCostPrice" : 211.14,
+      "productCount" : 36565,
+      "productQuality" : 22.32
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3660294,
+      "unit_name" : "Магазин Шанхай",
+      "company_id" : 3247145,
+      "company_name" : "EXPOCENTRE",
+      "shop_size" : 200000,
+      "district_name" : "Центр города",
+      "qty" : 60130,
+      "price" : 2500.0,
+      "quality" : 22.28,
+      "brand" : 0.0
+    },
+    "profit" : 83692165
+  },
+  "Сомбреро" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Шерсть",
+        "count" : "29252",
+        "quality" : "40.35",
+        "price" : 38.0
+      } ],
+      "productId" : 422649,
+      "productCostPrice" : 145.68,
+      "productCount" : 29252,
+      "productQuality" : 48.76
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5428967,
+      "unit_name" : "Одежда 07",
+      "company_id" : 2421324,
+      "company_name" : "RAO \"Xryaki\"",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 690630,
+      "price" : 3000.0,
+      "quality" : 39.7,
+      "brand" : 4.56
+    },
+    "profit" : 83494568
+  },
+  "Сухой корм для животных" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Мясо",
+        "count" : "365657",
+        "quality" : "12.3",
+        "price" : 1.0
+      }, {
+        "material" : "\"Природные минералы\"",
+        "count" : "182828",
+        "quality" : "1.0",
+        "price" : 6.1
+      }, {
+        "material" : "Зерно",
+        "count" : "182828",
+        "quality" : "1.0",
+        "price" : 0.3
+      }, {
+        "material" : "Пластмасса",
+        "count" : "109697",
+        "quality" : "10.89",
+        "price" : 75.0
+      } ],
+      "productId" : 422200,
+      "productCostPrice" : 35.31,
+      "productCount" : 365657,
+      "productQuality" : 20.6
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422666,
+          "name" : "Сан-Антонио",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422653,
+          "name" : "Соединенные Штаты Америки",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422658,
+          "name" : "Юго-Запад",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5419990,
+      "unit_name" : "Магазин",
+      "company_id" : 4821726,
+      "company_name" : "Archonia Ltd",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 562718,
+      "price" : 250.0,
+      "quality" : 13.97,
+      "brand" : 0.0
+    },
+    "profit" : 78502901
+  },
+  "Спортинвентарь" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Кожа",
+        "count" : "29252",
+        "quality" : "19.29",
+        "price" : 30.0
+      }, {
+        "material" : "Резина",
+        "count" : "29252",
+        "quality" : "4.82",
+        "price" : 35.0
+      } ],
+      "productId" : 15335,
+      "productCostPrice" : 34.54,
+      "productCount" : 146263,
+      "productQuality" : 26.65
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401845,
+          "name" : "Сиань",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401804,
+          "name" : "Центральный Китай",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5582857,
+      "unit_name" : "Магазин",
+      "company_id" : 2668384,
+      "company_name" : "100",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 581365,
+      "price" : 550.0,
+      "quality" : 25.78,
+      "brand" : 0.0
+    },
+    "profit" : 75392725
+  },
+  "Медицинский инструментарий" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Стекло",
+        "count" : "292526",
+        "quality" : "6.1",
+        "price" : 21.0
+      } ],
+      "productId" : 359856,
+      "productCostPrice" : 63.54,
+      "productCount" : 146263,
+      "productQuality" : 18.96
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401884,
+          "name" : "Сингапур",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401794,
+          "name" : "Республика Сингапур",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401812,
+          "name" : "Республика Сингапур",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5496877,
+      "unit_name" : "Магазин",
+      "company_id" : 2668384,
+      "company_name" : "100",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 339934,
+      "price" : 500.0,
+      "quality" : 16.74,
+      "brand" : 0.0
+    },
+    "profit" : 63837948
+  },
+  "Снюс" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Табак",
+        "count" : "175515",
+        "quality" : "7.05",
+        "price" : 1800.0
+      }, {
+        "material" : "\"Природные минералы\"",
+        "count" : "29252",
+        "quality" : "1.0",
+        "price" : 6.1
+      }, {
+        "material" : "Сталь",
+        "count" : "29252",
+        "quality" : "5.5",
+        "price" : 35.0
+      } ],
+      "productId" : 424205,
+      "productCostPrice" : 5474.37,
+      "productCount" : 58505,
+      "productQuality" : 18.96
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422662,
+          "name" : "Чикаго",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422653,
+          "name" : "Соединенные Штаты Америки",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422657,
+          "name" : "Средний Запад",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5135289,
+      "unit_name" : "Магазин✅",
+      "company_id" : 4502472,
+      "company_name" : "PlastExportTreid",
+      "shop_size" : 50000,
+      "district_name" : "Центр города",
+      "qty" : 25000,
+      "price" : 6500.0,
+      "quality" : 14.65,
+      "brand" : 0.0
+    },
+    "profit" : 60004483
+  },
+  "Хлеб" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Мука",
+        "count" : "1462630",
+        "quality" : "6.52",
+        "price" : 0.4
+      }, {
+        "material" : "Яйца",
+        "count" : "2925260",
+        "quality" : "5.36",
+        "price" : 1.5
+      }, {
+        "material" : "Масло",
+        "count" : "1462630",
+        "quality" : "24.17",
+        "price" : 20.0
+      }, {
+        "material" : "Молоко",
+        "count" : "585052",
+        "quality" : "12.68",
+        "price" : 3.0
+      } ],
+      "productId" : 1506,
+      "productCostPrice" : 13.38,
+      "productCount" : 2925260,
+      "productQuality" : 37.425
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422409,
+          "name" : "Буэнос Айрес",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422406,
+          "name" : "Аргентина",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422407,
+          "name" : "Междуречье и Ла-Плата",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4315623,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 5766708,
+      "price" : 33.6,
+      "quality" : 30.86,
+      "brand" : 2.11
+    },
+    "profit" : 59148757
+  },
+  "Ткань" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Шерсть",
+        "count" : "936083",
+        "quality" : "40.35",
+        "price" : 38.0
+      } ],
+      "productId" : 1482,
+      "productCostPrice" : 82.73,
+      "productCount" : 468041,
+      "productQuality" : 48.76
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401865,
+          "name" : "Гуанчжоу",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401806,
+          "name" : "Южный Китай",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4872265,
+      "unit_name" : "NauMart - Гуанчжоу",
+      "company_id" : 3159621,
+      "company_name" : "NauMart",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 637681,
+      "price" : 200.0,
+      "quality" : 28.65,
+      "brand" : 2.74
+    },
+    "profit" : 54887168
+  },
+  "Фольктдрект" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Ткань",
+        "count" : "36565",
+        "quality" : "20.44",
+        "price" : 15.0
+      }, {
+        "material" : "\"Синтетическая ткань\"",
+        "count" : "36565",
+        "quality" : "11.75",
+        "price" : 65.0
+      }, {
+        "material" : "Шерсть",
+        "count" : "73131",
+        "quality" : "40.35",
+        "price" : 38.0
+      } ],
+      "productId" : 424206,
+      "productCostPrice" : 242.14,
+      "productCount" : 36565,
+      "productQuality" : 40.78
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401936,
+          "name" : "Бангкок",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401797,
+          "name" : "Таиланд",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401824,
+          "name" : "Таиланд",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 4145301,
+      "unit_name" : "Одежда 04",
+      "company_id" : 2421324,
+      "company_name" : "RAO \"Xryaki\"",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 419978,
+      "price" : 1600.0,
+      "quality" : 40.64,
+      "brand" : 5.14
+    },
+    "profit" : 49650150
+  },
+  "Масло" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Молоко",
+        "count" : "4387891",
+        "quality" : "12.68",
+        "price" : 3.0
+      } ],
+      "productId" : 15747,
+      "productCostPrice" : 11.15,
+      "productCount" : 1462630,
+      "productQuality" : 27.33
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 401852,
+          "name" : "Шанхай",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 401791,
+          "name" : "Китайская Народная Республика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 401805,
+          "name" : "Долина реки Янцзы",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3525909,
+      "unit_name" : "Янцзы. Магазин Еда",
+      "company_id" : 3395948,
+      "company_name" : "some company",
+      "shop_size" : 200000,
+      "district_name" : "Центр города",
+      "qty" : 1900001,
+      "price" : 44.0,
+      "quality" : 23.96,
+      "brand" : 0.879999536842349
+    },
+    "profit" : 48047395
+  },
+  "Жемчужный крем" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "\"Косметическое масло\"",
+        "count" : "58505",
+        "quality" : "7.26",
+        "price" : 100.0
+      }, {
+        "material" : "Пластмасса",
+        "count" : "11701",
+        "quality" : "10.89",
+        "price" : 75.0
+      }, {
+        "material" : "Жемчуг",
+        "count" : "117010",
+        "quality" : "12.05",
+        "price" : 4000.0
+      }, {
+        "material" : "Воск",
+        "count" : "175515",
+        "quality" : "40.52",
+        "price" : 8.0
+      } ],
+      "productId" : 424508,
+      "productCostPrice" : 8192.81,
+      "productCount" : 58505,
+      "productQuality" : 38.39
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422409,
+          "name" : "Буэнос Айрес",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422406,
+          "name" : "Аргентина",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422407,
+          "name" : "Междуречье и Ла-Плата",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5415306,
+      "unit_name" : "Store - Buenos Aires - DrugStore",
+      "company_id" : 3685875,
+      "company_name" : "AJM Corporation",
+      "shop_size" : 110000,
+      "district_name" : "Центр города",
+      "qty" : 6632,
+      "price" : 9000.0,
+      "quality" : 29.74,
+      "brand" : 0.630533775633293
+    },
+    "profit" : 47224650
+  },
+  "Гормональные препараты" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Коровы",
+        "count" : "1755",
+        "quality" : "23.87",
+        "price" : 6000.0
+      } ],
+      "productId" : 359859,
+      "productCostPrice" : 155.88,
+      "productCount" : 87757,
+      "productQuality" : 37.5
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422660,
+          "name" : "Нью-Йорк",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422653,
+          "name" : "Соединенные Штаты Америки",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422655,
+          "name" : "Среднеатлантический регион",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 3807358,
+      "unit_name" : "Store ",
+      "company_id" : 3719022,
+      "company_name" : "Omahen International",
+      "shop_size" : 300000,
+      "district_name" : "Фешенебельный район",
+      "qty" : 258957,
+      "price" : 669.1,
+      "quality" : 37.41,
+      "brand" : 3.07
+    },
+    "profit" : 45038647
+  },
+  "Джем" : {
+    "resultDataAfterCalculateFactory" : {
+      "ingredientsOfSpecializationList" : [ {
+        "material" : "Фрукты",
+        "count" : "73131",
+        "quality" : "1.0",
+        "price" : 1.97
+      }, {
+        "material" : "Сахар",
+        "count" : "36565",
+        "quality" : "1.0",
+        "price" : 1.0
+      }, {
+        "material" : "Стекло",
+        "count" : "14626",
+        "quality" : "6.1",
+        "price" : 21.0
+      }, {
+        "material" : "Мёд",
+        "count" : "36565",
+        "quality" : "30.33",
+        "price" : 5.0
+      } ],
+      "productId" : 422434,
+      "productCostPrice" : 52.24,
+      "productCount" : 73131,
+      "productQuality" : 24.079
+    },
+    "marketingReport" : {
+      "geographyWrapper" : {
+        "city" : {
+          "id" : 422612,
+          "name" : "Мехико",
+          "citySalary" : 0.0,
+          "education" : 0.0,
+          "region" : null,
+          "companyUnits" : null
+        },
+        "country" : {
+          "id" : 422607,
+          "name" : "Мексика",
+          "country_symbol" : null,
+          "regions" : null,
+          "companyUnits" : null
+        },
+        "region" : {
+          "id" : 422610,
+          "name" : "Центральная Мексика",
+          "country" : null,
+          "cities" : null,
+          "companyUnits" : null
+        }
+      },
+      "unit_id" : 5445027,
+      "unit_name" : "Магазин",
+      "company_id" : 4036719,
+      "company_name" : "Mormaf Finance",
+      "shop_size" : 100000,
+      "district_name" : "Центр города",
+      "qty" : 350003,
+      "price" : 605.0,
+      "quality" : 20.88,
+      "brand" : 0.0
+    },
+    "profit" : 40423891
+  }
+}

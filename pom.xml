@@ -110,6 +110,9 @@
 
 <!--    округление double-->
         <!-- https://mvnrepository.com/artifact/org.decimal4j/decimal4j -->
+
+        <!--    округление double-->
+        <!-- https://mvnrepository.com/artifact/org.decimal4j/decimal4j -->
         <dependency>
             <groupId>org.decimal4j</groupId>
             <artifactId>decimal4j</artifactId>
